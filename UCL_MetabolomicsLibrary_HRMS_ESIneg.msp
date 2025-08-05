@@ -1,0 +1,2944 @@
+Name: Glycolic acid
+PrecursorMz: 75.0088
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.35
+InChiKey: InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+Formula: C2H4O3
+Smiles: C(C(=O)O)O
+Ontology: HMDB0000115
+Num peaks: 3
+47.0139 	1.9
+72.9933 	3.3
+75.0089 	100
+
+
+Name: Citric Acid
+PrecursorMz: 191.0197
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.53 
+InChiKey: InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)
+Formula: C6H8O7 
+Smiles: C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+Ontology: HMDB0000094
+Num peaks: 10
+57.0344		2.1	
+67.0189		1.0	
+85.0296		15.8	
+87.0088		24.1	
+111.0087	100.0	
+129.0193	4.9	
+130.9986	0.5	
+154.9984	0.6	
+173.0093	1.4	
+191.0198	10.7
+
+
+Name: Isocitric Acid
+PrecursorMz: 191.0197
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.06 
+InChiKey: InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)
+Formula: C6H8O7 
+Smiles: C(C(C(C(=O)O)O)C(=O)O)C(=O)O
+Ontology: HMDB0000193
+Num peaks: 20
+45.0659 	1.1
+55.4000 	1.0
+57.0345 	10.1
+57.9756 	33.5
+59.0136 	1.2
+67.0190 	3.8
+72.9930 	7.9
+78.9588 	53.2
+85.0294 	39.2
+87.0085 	50.1
+88.0120 	0.9
+100.9333 	2.1
+111.0866 	100.0
+117.0195 	5.2
+121.2148 	1.0
+129.0197 	6.3
+144.9911 	1.0
+154.9985 	4.0
+173.0085 	6.2
+191.0198 	9.8
+
+
+Name: Pyruvic Acid
+PrecursorMz: 87.0088
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.71
+InChiKey: InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+Formula: C3H4O3
+Smiles: CC(=O)C(=O)O
+Ontology: HMDB0000243
+Num peaks: 4
+41.0033 	1.9
+43.0190 	12.5
+48.7765 	1
+87.0089 	100
+
+
+Name: Lactic Acid
+PrecursorMz: 89.0244
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.32
+InChiKey: InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)
+Formula: C3H6O3
+Smiles: CC(C(=O)O)O
+Ontology: HMDB0000190
+Num peaks: 5
+41.0034 	4.9
+43.0190 	36.4
+71.0140 	1.1
+87.0088 	1.1
+89.0246 	100
+
+
+Name: 2-ketobutyric acid
+PrecursorMz: 101.0244
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.61
+InChiKey: InChI=1S/C4H6O3/c1-2-3(5)4(6)7/h2H2,1H3,(H,6,7)
+Formula: C4H6O3
+Smiles: CCC(=O)C(=O)O
+Ontology: HMDB0000005
+Num peaks: 4
+57.0347 	16.8
+100.9334 	1.3
+101.0246 	100
+101.0610 	3.2
+
+
+Name: Acetoacetate
+PrecursorMz: 101.0244
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.98
+InChiKey: InChI=1S/C4H6O3/c1-3(5)2-4(6)7/h2H2,1H3,(H,6,7)/p-1
+Formula: C4H6O3
+Smiles: CC(=O)CC(=O)O
+Ontology: HMDB0304256
+Num peaks: 6
+41.0033 	5.6
+57.0347 	100
+58.0379 	2.1
+72.9932 	1.3
+83.0138 	0.3
+101.0246 	14.8
+
+
+Name: Malonic acid
+PrecursorMz: 103.0037
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 4.38
+InChiKey: InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)
+Formula: C3H4O4
+Smiles: C(C(=O)O)C(=O)O
+Ontology: HMDB0000691
+Num peaks: 2
+59.0136		100.0	
+103.0037	8.6
+
+
+Name: 2-hydroxybutyric acid
+PrecursorMz: 103.0401
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.40
+InChiKey: InChI=1S/C4H8O3/c1-2-3(5)4(6)7/h3,5H,2H2,1H3,(H,6,7)
+Formula: C4H8O3
+Smiles: CCC(C(=O)O)O
+Ontology: HMDB0000008
+Num peaks: 5
+57.0345 	100.0
+58.0379 	4.3
+59.0138 	6.2
+85.0294 	3.8
+103.0401 	22.1
+
+
+Name: 3-hydroxybutyric acid
+PrecursorMz: 103.0401
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.70
+InChiKey: InChI=1S/C4H8O3/c1-3(5)2-4(6)7/h3,5H,2H2,1H3,(H,6,7)/t3-/m1/s1
+Formula: C4H8O3
+Smiles: C[C@@H](O)CC(O)=O
+Ontology: HMDB0000011
+Num peaks: 5
+41.0033 	1.5
+57.0345 	0.4
+59.0138 	100.0
+60.0172 	1.2
+103.0401 	100.0
+
+
+Name: Fumaric Acid
+PrecursorMz: 115.0037
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 6.77
+InChiKey: InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1+
+Formula: C4H4O4
+Smiles: C(=C/C(=O)O)\C(=O)O
+Ontology: HMDB0000134
+Num peaks: 2
+71.0140 	100
+115.0039 	14.7
+
+
+Name: Levulinic acid
+PrecursorMz: 115.0401
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.58
+InChiKey: InChI=1S/C5H8O3/c1-4(6)2-3-5(7)8/h2-3H2,1H3,(H,7,8)
+Formula: C5H8O3
+Smiles: CC(=O)CCC(=O)O
+Ontology: HMDB0000720
+Num peaks: 13
+50.9897		0.6	
+51.9839		0.7	
+56.2356		0.7	
+57.0909		0.8	
+69.0346		2.6	
+71.0138		6.9	
+71.0502		100.0	
+97.0295		25.5	
+97.0366		1.2	
+97.3195		0.7	
+100.2302	1.3	
+102.5479	0.8	
+115.0400	49.5
+
+
+Name: Guanidinoacetic acid
+PrecursorMz: 116.0353
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 6.15
+InChiKey: InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
+Formula: C3H7N3O2
+Smiles: C(C(=O)O)N=C(N)N
+Ontology: HMDB0000128
+Num peaks: 2
+55.0286 	4.17
+74.0233 	100.0
+
+
+Name: Methylmalonate
+PrecursorMz: 117.0193
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 6.09
+InChiKey: InChI=1S/C4H6O4/c1-2(3(5)6)4(7)8/h2H,1H3,(H,5,6)(H,7,8)
+Formula: C4H6O4
+Smiles: CC(C(=O)O)C(=O)O
+Ontology: HMDB0000202
+Num peaks: 4
+55.0191 	3.5
+73.0296 	100.0
+74.0328 	1.5
+117.0196 	5.3
+
+
+Name: Succinic Acid
+PrecursorMz: 117.0193
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 6.64
+InChiKey: InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)
+Formula: C4H6O4
+Smiles: C(CC(=O)O)C(=O)O
+Ontology: HMDB0000254
+Num peaks: 4
+55.0191 	1.5
+73.0297 	100.0
+99.0090 	8.5
+117.0196 	32.6
+
+
+Name: Citraconic acid
+PrecursorMz: 129.0193
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.68
+InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2-
+Formula: C5H6O4
+Smiles: C/C(=C/C(=O)O)/C(=O)O
+Ontology: HMDB0000634
+Num peaks: 2
+85.0296 	100.0
+129.0195 	9.8
+
+
+Name: Itaconic acid
+PrecursorMz: 129.0193
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 6.01
+InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h1-2H2,(H,6,7)(H,8,9)
+Formula: C5H6O4
+Smiles: C=C(CC(=O)O)C(=O)O
+Ontology: HMDB0002092
+Num peaks: 2
+85.0296 	100.0
+129.0195 	9.8
+
+
+Name: Mesaconic acid
+PrecursorMz: 129.0193
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 8.97
+InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2+
+Formula: C5H6O4
+Smiles: C/C(=C\C(=O)O)/C(=O)O
+Ontology: HMDB0000749
+Num peaks: 6
+41.2041 	0.4
+55.7698 	0.5
+56.8647 	0.5
+85.0296 	100.0
+86.0328 	3.5
+129.0196 	8.0
+
+
+Name: 3-methyl-2-oxopentanoate
+PrecursorMz: 129.0557
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.56
+InChiKey: InChI=1S/C6H10O3/c1-3-4(2)5(7)6(8)9/h4H,3H2,1-2H3,(H,8,9)/p-1
+Formula: C6H10O3
+Smiles: CCC(C)C(=O)C(=O)O
+Ontology: HMDB0037114
+Num peaks: 11
+44.9982 	1.0
+54.6035 	1.2
+55.6000 	1.1
+58.1854 	1.2
+60.9423 	1.1
+78.8996 	1.3
+85.0660 	3.0
+85.0721 	1.5
+109.8263 	1.1
+119.8482 	1.2
+129.0560 	100.0
+
+
+Name: 4-methyl-2-oxopentanoate
+PrecursorMz: 129.0557
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.57
+InChiKey: InChI=1S/C6H10O3/c1-4(2)3-5(7)6(8)9/h4H,3H2,1-2H3,(H,8,9)
+Formula: C6H10O3
+Smiles: CC(C)CC(=O)C(=O)O
+Ontology: HMDB0000695
+Num peaks: 6
+44.9982 	0.1
+69.0345 	0.1 	
+82.0662 	0.5
+85.0658 	2.0
+101.0607 	1.8
+129.0556 	100.0
+
+
+Name: Oxaloacetate
+PrecursorMz: 130.9986
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 12.53
+InChiKey: InChI=1S/C4H4O5/c5-2(4(8)9)1-3(6)7/h1H2,(H,6,7)(H,8,9)
+Formula: C4H4O5
+Smiles: C(C(=O)C(=O)O)C(=O)O
+Ontology: HMDB0000223
+Num peaks: 2
+61.9883 	100.0
+130.9986 	1.2
+
+
+Name: 2-Acetolactate
+PrecursorMz: 131.0350
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 3.39
+InChiKey: InChI=1S/C5H8O4/c1-3(6)5(2,9)4(7)8/h9H,1-2H3,(H,7,8)
+Formula: C5H8O4 
+Smiles: CC(=O)C(C)(C(=O)O)O
+Ontology: HMDB0006833
+Num peaks: 6
+43.0189		67.1
+69.0346		44.4
+87.0452		100.0
+89.0244		35.4
+113.0244	36.3
+131.0349	41.8
+
+
+Name: 3-hydroxy-3-methyl-2-oxobutanoate
+PrecursorMz: 131.0350
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.76
+InChiKey: InChI=1S/C5H8O4/c1-5(2,9)3(6)4(7)8/h9H,1-2H3,(H,7,8)
+Formula: C5H8O4 
+Smiles: CC(C)(C(=O)C(=O)O)O
+Ontology: HMDB0006833
+Num peaks: 3
+69.0346		96.6
+87.0452		97.8
+131.0349	100.0
+
+
+Name: 2-Hydroxyisocaproic acid
+PrecursorMz: 131.0714
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.60
+InChiKey: InChI=1S/C6H12O3/c1-4(2)3-5(7)6(8)9/h4-5,7H,3H2,1-2H3,(H,8,9)
+Formula: C6H12O3 
+Smiles: CC(C)CC(C(=O)O)O
+Ontology: HMDB0000665
+Num peaks: 5
+69.0347 	8.5
+85.0660 	100.0
+113.0610 	3.0
+129.0557 	1.6
+131.0716 	92.4
+
+
+Name: Malic Acid
+PrecursorMz: 133.0142
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 8.62
+InChiKey: InChI=1S/C4H6O5/c5-2(4(8)9)1-3(6)7/h2,5H,1H2,(H,6,7)(H,8,9)
+Formula: C4H6O5 
+Smiles: C(C(C(=O)O)O)C(=O)O
+Ontology: HMDB0000691
+Num peaks: 9
+41.0033 	1.5
+43.0190 	9.6
+59.0140 	2.3
+71.0140 	65.0
+72.9933 	17.1
+87.0089 	2.2
+89.0246 	7.7
+115.0039 	100.0
+133.0145 	46.2
+
+
+Name: Threonic acid
+PrecursorMz: 135.0299
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.26
+InChiKey: InChI=1S/C4H8O5/c5-1-2(6)3(7)4(8)9/h2-3,5-7H,1H2,(H,8,9)/t2-,3+/m1/s1
+Formula: C4H8O5 
+Smiles: C([C@H]([C@@H](C(=O)O)O)O)O
+Ontology: HMDB0000943
+Num peaks: 12
+44.9983 	2.7
+55.0190 	1.8
+56.9983 	6.0
+59.0139 	15.8
+71.0140 	3.7
+72.9933 	2.2
+75.0089 	100.0
+87.0090 	1.0
+89.0245 	10.0
+117.0195 	2.9
+134.8948 	3.7
+135.0301 	52.0
+
+
+Name: 4-Hydroxybenzoic acid
+PrecursorMz: 137.0244
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.54
+InChiKey: InChI=1S/C7H6O3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H,(H,9,10)
+Formula: C7H6O3 
+Smiles: C1=CC(=CC=C1C(=O)O)O 
+Ontology: HMDB0000500
+Num peaks: 2
+93.0347 	100.0
+137.0246 	14.7
+
+
+Name: Acetylphosphate
+PrecursorMz: 138.9802
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.54
+InChiKey: InChI=1S/C2H5O5P/c1-2(3)7-8(4,5)6/h1H3,(H2,4,5,6)
+Formula: C2H5O5P 
+Smiles: CC(=O)OP(=O)(O)O 
+Ontology: HMDB0001494
+Num peaks: 6
+53.8476 	1.2
+57.5687 	1.3
+59.0141 	4.1
+78.9592 	72.8
+96.9698 	100
+138.9802 	9.0
+
+
+Name: O-Phosphoethanolamine
+PrecursorMz: 140.0118
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 19.01
+InChiKey: InChI=1S/C2H8NO4P/c3-1-2-7-8(4,5)6/h1-3H2,(H2,4,5,6)
+Formula: C2H8NO4P 
+Smiles: C(COP(=O)(O)O)N
+Ontology: HMDB0000224
+Num peaks: 2
+78.9592 	100.0
+140.0120 	6.1
+
+
+Name: alpha-ketoglutaric acid
+PrecursorMz: 145.0142
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 5.03
+InChiKey: InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+Formula: C5H6O5 
+Smiles: C(CC(=O)O)C(=O)C(=O)O
+Ontology: HMDB0000208
+Num peaks: 9
+43.4996 	1.4
+57.0347 	55.4
+65.8179 	1.3
+66.7834 	1.2
+69.5233 	1.3
+73.0298 	7.0
+83.0140 	2.4
+101.0246 	100.0
+145.0143 	13.7
+
+
+Name: 2-hydroxyglutaric acid
+PrecursorMz: 147.0299
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 7.22
+InChiKey: InChI=1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)
+Formula: C5H8O5 
+Smiles: C(CC(=O)O)C(C(=O)O)O
+Ontology: HMDB0059655
+Num peaks: 8
+57.0345		50.3
+61.9883 	15.1
+85.0295		44.5
+101.0244	29.0
+103.0400	30.4
+129.0192	100.0
+130.0226	3.2
+147.0298	23.0
+
+
+Name: Citramalic acid
+PrecursorMz: 147.0299
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.26
+InChiKey: InChI=1S/C5H8O5/c1-5(10,4(8)9)2-3(6)7/h10H,2H2,1H3,(H,6,7)(H,8,9)
+Formula: C5H8O5 
+Smiles: CC(CC(=O)O)(C(=O)O)O
+Ontology: HMDB0000426
+Num peaks: 8
+57.0347 	24.3
+59.0140 	10.0
+85.0297 	58.1
+87.0089 	100.0
+101.0245 	3.8
+103.0403 	9.0
+129.0196 	13.6
+147.0302 	57.1
+
+
+Name: Cinnamic acid
+PrecursorMz: 147.0452
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.59
+InChiKey: InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6+
+Formula: C9H8O2 
+Smiles: C1=CC=C(C=C1)/C=C/C(=O)O
+Ontology: HMDB0000930
+Num peaks: 8
+57.0347 	24.3
+59.0140 	10.0
+85.0297 	58.1
+87.0089 	100.0
+101.0245 	3.8
+103.0403 	9.0
+129.0196 	13.6
+147.0302 	57.1
+
+
+Name: Mevalonic Acid
+PrecursorMz: 147.0663
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 5.88
+InChiKey: KJTLQQUUPVSXIM-UHFFFAOYSA-N
+Formula: C6H12O4
+Smiles: CC(CCO)(CC(=O)O)O
+Ontology: HMDB0000930
+Num peaks: 18
+41.9985 	27.8
+43.0019 	5.1
+49.5086 	1.2
+57.0345 	41.1
+58.0299 	8.7
+61.9883 	100.0
+74.0249 	10.3
+75.0284 	4.3
+85.0295 	33.2
+87.0087 	4.3
+101.0244 	21.2
+103.0400 	21.2
+110.0445 	24.3
+128.0549 	54.5
+129.0195 	87.8
+146.0652 	52.4
+147.0302 	24.2
+
+
+Name: Ribose
+PrecursorMz: 149.0455
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 
+InChiKey: InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6+
+Formula: C5H10O5 
+Smiles: C1=CC=C(C=C1)/C=C/C(=O)O
+Ontology: HMDB0000283
+Num peaks: 7
+41.0033 	1.6
+43.0190 	1.3
+59.0140 	100.0
+71.0140 	18.0
+85.0296 	1.2
+89.0246 	14.8
+89.0310 	1.2
+
+
+Name: Cysteine sulfinic acid
+PrecursorMz: 152.0023
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 
+InChiKey: InChI=1/C3H7NO4S/c4-2(3(5)6)1-9(7)8/h2H,1,4H2,(H,5,6)(H,7,8)/t2-/m0/s1
+Formula: C3H7NO4S 
+Smiles: O=C(O)[C@@H](N)CS(=O)O
+Ontology: HMDB0250705
+Num peaks: 5
+44.9982		31.9
+64.9703 	100.0
+71.0138		21.0
+88.0404		31.3
+152.0023	31.3
+
+
+Name: 2-oxoadipic acid
+PrecursorMz: 159.0299
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 4.96
+InChiKey: InChI=1S/C6H8O5/c7-4(6(10)11)2-1-3-5(8)9/h1-3H2,(H,8,9)(H,10,11)
+Formula: C6H8O5 
+Smiles: C(CC(=O)C(=O)O)CC(=O)O
+Ontology: HMDB0000225
+Num peaks: 7
+41.0033		31.5
+59.0138		25.0
+69.0346		36.7
+71.0502		62.6
+97.0295		100.0
+115.0401	39.2
+159.0298	25.6
+
+
+Name: Hydroxy methyl glutaric acid
+PrecursorMz: 161.0455
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 3.02
+InChiKey: InChI=1S/C6H8O5/c7-4(6(10)11)2-1-3-5(8)9/h1-3H2,(H,8,9)(H,10,11)
+Formula: C6H10O5 
+Smiles: C(CC(=O)C(=O)O)CC(=O)O
+Ontology: HMDB0000225
+Num peaks: 15
+41.0032 	10.1
+44.9982 	4.3
+54.8910 	5.4
+57.0346 	19.7
+59.0138 	44.2
+61.1039 	4.2
+71.0138 	100.0
+73.0297 	19.6
+85.0294 	58.7
+89.0246 	4.3
+95.0139		18.7
+101.0254	5.5
+113.0243	42.2
+115.9204	17.6
+160.9121	21.2
+
+
+Name: p-Coumaric Acid
+PrecursorMz: 163.0401
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.96
+InChiKey: InChI=1S/C9H8O3/c10-8-4-1-7(2-5-8)3-6-9(11)12/h1-6,10H,(H,11,12)/b6-3+
+Formula: C9H8O3 
+Smiles: C1=CC(=CC=C1/C=C/C(=O)O)O
+Ontology: HMDB0002035
+Num peaks: 2
+119.0505 	100.0
+163.0404 	11.1
+
+
+Name: Phenylpyruvate
+PrecursorMz: 163.0401
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.60
+InChiKey: InChI=1S/C9H8O3/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,11,12)
+Formula: C9H8O3 
+Smiles: C1=CC=C(C=C1)CC(=O)C(=O)O
+Ontology: HMDB0000205
+Num peaks: 2
+91.0555 	100.0
+163.0406 	1.7
+
+
+Name: Phosphoenolpyruvate
+PrecursorMz: 166.9751
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 16.50 
+InChiKey: InChI=1S/C3H5O6P/c1-2(3(4)5)9-10(6,7)8/h1H2,(H,4,5)(H2,6,7,8)
+Formula: C3H5O6P 
+Smiles: C=C(C(=O)O)OP(=O)(O)O
+Ontology: HMDB0000263
+Num peaks: 2
+78.9591 	98.9
+166.9922 	1.1
+
+
+Name: Homogentisic acid
+PrecursorMz: 167.0350
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.64 
+InChiKey: InChI=1S/C8H8O4/c9-6-1-2-7(10)5(3-6)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)
+Formula: C8H8O4 
+Smiles: C1=CC(=C(C=C1O)CC(=O)O)O
+Ontology: HMDB0000130
+Num peaks: 6
+108.0217	6.3	
+109.0293	1.0	
+122.0373	13.0	
+123.0452	100.0	
+137.0241	0.6	
+167.0348	3.0
+
+
+Name: Cysteic acid
+PrecursorMz: 167.9972
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C3H7NO5S/c4-2(3(5)6)1-10(7,8)9/h2H,1,4H2,(H,5,6)(H,7,8,9)
+Formula: C3H7NO5S 
+Smiles: C(C(C(=O)O)N)S(=O)(=O)O
+Ontology: HMDB0002757
+Num peaks: 5
+71.0140 	50.7
+80.9653 	100.0
+86.0249 	12.1
+150.9709 	27.5
+167.9975 	60.1
+
+
+Name: Phosphodimethylethanolamine
+PrecursorMz: 168.0431
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.01 
+InChiKey: InChI=1S/C4H12NO4P/c1-5(2)3-4-9-10(6,7)8/h3-4H2,1-2H3,(H2,6,7,8)
+Formula: C4H12NO4P 
+Smiles: CN(C)CCOP(=O)(O)O
+Ontology: HMDB0060244
+Num peaks: 6
+62.9641		0.6
+78.9590		88.3
+80.9747		0.1
+96.9696		10.9
+125.0009	0.1
+168.0431	0.1
+
+
+Name: 3-Phosphoglyceraldehyde
+PrecursorMz: 168.9907
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.21 
+InChiKey: InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h1,3,5H,2H2,(H2,6,7,8)
+Formula: C3H7O6P 
+Smiles: C(C(C=O)O)OP(=O)(O)O
+Ontology: HMDB0001473
+Num peaks: 4
+78.9592 	65.7
+96.9697 	100.0
+109.0410 	1.0
+150.9805 	3.1
+
+
+Name: Dihydroxyacetonephosphate
+PrecursorMz: 168.9907
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.09 
+InChiKey: InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h4H,1-2H2,(H2,6,7,8)
+Formula: C3H7O6P 
+Smiles: C(C(=O)COP(=O)(O)O)O
+Ontology: HMDB0247961
+Num peaks: 8
+41.9743 	1.1
+57.3212 	1.1
+65.4245 	1.2
+73.0297 	1.4
+78.9592 	58.7
+83.1032 	1.4
+96.9698 	100.0
+109.0408 	2.6
+
+
+Name: Aconitic Acid
+PrecursorMz: 173.0092
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 10.02 
+InChiKey: InChI=1S/C6H6O6/c7-4(8)1-3(6(11)12)2-5(9)10/h1H,2H2,(H,7,8)(H,9,10)(H,11,12)
+Formula: C6H6O6 
+Smiles: C(C(=CC(=O)O)C(=O)O)C(=O)O
+Ontology: HMDB0247961
+Num peaks: 14
+52.5441 	3.0
+62.6106 	2.8
+63.4683 	2.6
+69.3904 	3.0
+72.1288 	3.3
+72.8473 	3.1
+78.5374 	3.2
+85.0296 	100.0
+109.2855 	2.9
+129.0196 	12.0
+133.0182 	3.2
+154.9478 	4.4
+157.5625 	3.3
+159.1655 	2.9
+
+
+Name: Ascorbic acid
+PrecursorMz: 173.0092
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+Formula: C6H8O6 
+Smiles: C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+Ontology: HMDB0000044
+Num peaks: 15
+57.0343		0.7	
+59.0137		24.4	
+71.0139		27.6	
+72.9929		1.8	
+73.0295		2.2	
+83.0139		0.7	
+85.0296		2.5	
+87.0088		48.9	
+99.0089		1.3	
+101.0244	0.7	
+112.9879	0.6	
+113.0246	1.5	
+115.0037	100.0	
+127.0034	1.0	
+175.0248	31.1
+
+
+Name: Glucuronolactone
+PrecursorMz: 173.0092
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h1-5,8-10H/t2-,3+,4-,5+/m0/s1
+Formula: C6H8O6 
+Smiles: C(=O)[C@@H]([C@@H]1[C@@H]([C@@H](C(=O)O1)O)O)O
+Ontology: HMDB0006355
+Num peaks: 34
+40.3755 	1.1
+40.3968 	1.2
+41.0034 	4.1
+41.1153 	1.1
+43.0191 	1.8
+44.9983 	17.1
+50.8926 	1
+51.0241 	2.5
+55.0190 	11.4
+55.0216 	1.1
+56.9986 	1.3
+57.0347 	25.1
+59.0140 	39.1
+59.1432 	1.2
+59.1470 	1.2
+67.0190 	1.2
+68.9984 	2.8
+71.0141 	9.3
+72.9934 	1.8
+73.0298 	2
+75.0089 	3.7
+83.0141 	3
+84.0218 	6.9
+85.0297 	100.0
+87.0090 	8.5
+95.0140 	21.5
+99.0088 	8.9
+103.0036 	2.8
+111.0096 	1.6
+113.0247 	69.5
+115.0043 	5.6
+117.0197 	1.6
+174.8348 	1.2
+175.0257 	2.4
+
+
+Name: 2-isopropylmalic acid
+PrecursorMz: 175.0612
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C7H12O5/c1-4(2)7(12,6(10)11)3-5(8)9/h4,12H,3H2,1-2H3,(H,8,9)(H,10,11)
+Formula: C7H12O5 
+Smiles: CC(C)C(CC(=O)O)(C(=O)O)O
+Ontology: HMDB0000402
+Num peaks: 1
+175.0612 	100
+
+
+Name: 3-isopropylmalic acid
+PrecursorMz: 175.0612
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C7H12O5/c1-3(2)4(6(9)10)5(8)7(11)12/h3-5,8H,1-2H3,(H,9,10)(H,11,12)/t4-,5+/m0/s1
+Formula: C7H12O5 
+Smiles: CC(C)[C@@H]([C@H](C(=O)O)O)C(=O)O
+Ontology: HMDB0012156
+Num peaks: 1
+175.0612 	100
+
+
+Name: Gluconolactone
+PrecursorMz: 177.0405
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.01
+InChiKey: InChI=1S/C6H10O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-5,7-10H,1H2/t2-,3-,4+,5-/m1/s1
+Formula: C6H10O6 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)O
+Ontology: HMDB0000150
+Num peaks: 13
+41.0033		15.7
+43.0189		18.6
+55.0189		11.0
+59.0138		100.0
+71.0138		29.7
+72.9931		15.8
+73.0295		18.3
+75.0088		12.7
+87.0088		16.5
+89.0244		35.7
+103.0039	11.7
+159.0299	55.4
+177.0404	33.0
+
+
+Name: Hippuric acid
+PrecursorMz: 178.0510
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.90 
+InChiKey: InChI=1S/C9H9NO3/c11-8(12)6-10-9(13)7-4-2-1-3-5-7/h1-5H,6H2,(H,10,13)(H,11,12)
+Formula: C9H9NO3 
+Smiles: C1=CC=C(C=C1)C(=O)NCC(=O)O
+Ontology: HMDB0000714
+Num peaks: 8
+46.9739 	1.4
+52.1069 	1.3
+56.0142 	5.4
+124.8063 	1.3
+132.0461 	6.3
+134.0614 	100
+139.9951 	1.2
+178.0512 	58.1
+
+
+Name: Fructose
+PrecursorMz: 179.0561
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.77 
+InChiKey: InChI=1S/C6H12O6/c7-2-6(11)5(10)4(9)3(8)1-12-6/h3-5,7-11H,1-2H2/t3-,4-,5+,6?/m1/s1
+Formula: C6H12O6 
+Smiles: C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+Ontology: HMDB0000660
+Num peaks: 7
+59.0140 	100
+71.0140 	54.6
+80.6407 	8.3
+83.7283 	6.4
+89.0245 	20.2
+111.8054 	7.6
+137.9547 	7.6
+
+
+Name: Glucose
+PrecursorMz: 179.0561
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.25 
+InChiKey: InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6?/m1/s1
+Formula: C6H12O6 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+Ontology: HMDB0304632
+Num peaks: 12
+47.0624 	2.5
+59.0140 	100.0
+71.0140 	33.5
+85.0297 	4.3
+86.0001 	2.5
+89.0247 	21.0
+94.8806 	2.3
+101.0249 	3.1
+109.7871 	2.4
+113.0247 	3.2
+119.0352 	2.5
+128.4333 	2.4
+
+
+Name: Inositol
+PrecursorMz: 179.0561
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime:  
+InChiKey: InChI=1S/C6H12O6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-12H
+Formula: C6H12O6 
+Smiles: C1(C(C(C(C(C1O)O)O)O)O)O
+Ontology: HMDB0000211
+Num peaks: 29
+41.0035 	3.8
+44.9983 	15.0
+55.0190 	5.9
+57.0347 	7.8
+59.0139 	31.9
+69.0349 	5.9
+71.0140 	29.4
+73.0295 	13.3
+83.0142 	6.6
+85.0297 	26.3
+86.6009 	2.9
+87.0089 	100.0
+87.8248 	2.8
+89.0245 	6.3
+97.0297 	8.3
+99.0091 	26.0
+101.0248 	9.7
+113.0246 	3.7
+117.0196 	16.1
+125.0246 	14.6
+129.6866 	2.5
+135.0455 	10.5
+138.8352 	3.1
+141.0199 	7.7
+159.0304 	8.4
+161.0458 	54.8
+173.6197 	2.9
+178.8414 	3.2
+179.0564 	60.9
+
+
+Name: Mannose
+PrecursorMz: 179.0561
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.04 
+InChiKey: InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5+,6?/m1/s1
+Formula: C6H12O6 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O
+Ontology: HMDB0000169
+Num peaks: 12
+47.0624 	2.5
+59.0140 	100
+71.0140 	33.5
+85.0297 	4.3
+86.0001 	2.5
+89.0247 	21.0
+94.8806 	2.3
+101.0249 	3.1
+109.7871 	2.4
+113.0247 	3.2
+119.0352 	2.5
+128.4333 	2.4
+
+
+Name: Homovanillic acid
+PrecursorMz: 181.0506
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 0.95 
+InChiKey: InChI=1S/C9H10O4/c1-13-8-4-6(5-9(11)12)2-3-7(8)10/h2-4,10H,5H2,1H3,(H,11,12)
+Formula: C9H10O4 
+Smiles: COC1=C(C=CC(=C1)CC(=O)O)O
+Ontology: HMDB0000118
+Num peaks: 14
+50.1878		1.9	
+96.7972		1.9	
+101.1089	2.1	
+105.0345	2.4	
+107.0503	3.4	
+108.0216	2.1	
+109.0292	2.5	
+121.0296	6.6	
+122.0372	43.3	
+136.0169	9.2	
+136.0527	2.8	
+137.0246	3.5	
+137.0607	100.0	
+181.0499	13.7
+
+
+Name: Sorbitol
+PrecursorMz: 181.0506
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.03 
+InChiKey: InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4+,5-,6-/m1/s1
+Formula: C6H14O6 
+Smiles: C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
+Ontology: HMDB0000247
+Num peaks: 24
+43.0190 	6.3
+55.0191 	8.8
+57.0347 	4.8
+59.0140 	100.0
+69.0350 	2.5
+71.0140 	71.2
+73.0296 	26.2
+78.0367 	1.1
+83.0140 	3.3
+85.0296 	11.9
+89.0246 	49.6
+91.0402 	1.2
+97.0296 	4.1
+101.0246 	37.5
+103.0401 	1.3
+113.0248 	5.6
+115.0402 	2.7
+119.0350 	8.3
+124.4760 	1.1
+131.0355 	2.9
+149.0468 	1.6
+163.0615 	4.8
+180.8403	2.0
+181.0721 	53.3
+
+
+Name: O-Phospho-Serine
+PrecursorMz: 184.0016
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 8.06 
+InChiKey: InChI=1S/C3H8NO6P/c4-2(3(5)6)1-10-11(7,8)9/h2H,1,4H2,(H,5,6)(H2,7,8,9)/t2-/m0/s1
+Formula: C3H8NO6P 
+Smiles: C([C@@H](C(=O)O)N)OP(=O)(O)O
+Ontology: HMDB0000272
+Num peaks: 3
+78.9592 	31.9
+96.9697 	100.0
+184.0018 	25.8
+
+
+Name: 2-phosphoglycerate
+PrecursorMz: 184.9857
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.42 
+InChiKey: InChI=1S/C3H7O7P/c4-1-2(3(5)6)10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)
+Formula: C3H7O7P 
+Smiles: C(C(C(=O)O)OP(=O)(O)O)O
+Ontology: HMDB0000362
+Num peaks: 4
+78.9592 	100.0
+96.9698 	41.6
+166.9751 	1.4
+184.9862 	5.0
+
+
+Name: 3-phosphoglycerate
+PrecursorMz: 184.9857
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 21.45
+InChiKey: InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)
+Formula: C3H7O7P 
+Smiles: C(C(C(=O)O)O)OP(=O)(O)O
+Ontology: HMDB0000807
+Num peaks: 4
+78.9591 	74.4
+96.9697 	100
+166.9750 	1.3
+184.9858 	7.2
+
+
+Name: Azelaic acid
+PrecursorMz: 187.0976
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 3.90 
+InChiKey: InChI=1S/C9H16O4/c10-8(11)6-4-2-1-3-5-7-9(12)13/h1-7H2,(H,10,11)(H,12,13)
+Formula: C9H16O4 
+Smiles: C(CCCC(=O)O)CCCC(=O)O
+Ontology: HMDB0000784
+Num peaks: 7
+57.0346 	4.7
+97.0660 	10.7
+123.0816 	5.8
+125.0974 	100
+143.1078 	2.2
+169.0875 	4.2
+187.0978 	50.5
+
+
+Name: Glucuronic acid
+PrecursorMz: 193.0354
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 4.88 
+InChiKey: InChI=1S/C6H10O7/c7-1-2(8)4(5(10)11)13-6(12)3(1)9/h1-4,6-9,12H,(H,10,11)/t1-,2-,3+,4-,6-/m0/s1
+Formula: C6H10O7
+Smiles: O=C(O)[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+Ontology: HMDB0000127
+Num peaks: 17
+57.0345 	5.6
+59.0138 	100.0
+71.0138 	54.5
+72.9931 	80.3
+75.0087 	11.2
+85.0294 	41.3
+89.0243 	22.1
+95.0138 	4.7
+101.0243 	19.7
+103.0036 	9.8
+113.0245 	36.5
+114.9341 	17.2
+131.0351 	4.2
+133.0143 	3.5
+157.8962 	5.4
+174.9008 	2.5
+192.0515 	7.2
+
+
+Name: Gluconic acid
+PrecursorMz: 195.0510
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 3.74
+InChiKey: InChI=1S/C6H12O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h2-5,7-11H,1H2,(H,12,13)/t2-,3-,4+,5-/m1/s1
+Formula: C6H12O7 
+Smiles: C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O
+Ontology: HMDB0000625
+Num peaks: 17
+44.9983 	1.5
+55.0190 	1.3
+56.9983 	2.4
+57.0347 	8.6
+59.0139 	31.0
+71.0140 	8.2
+72.9933 	1.3
+75.0089 	100.0
+85.0295 	8.3
+87.0089 	14.4
+89.0247 	6.8
+99.0089 	22.4
+101.0243 	1.0
+129.0196 	34.2
+159.0302 	3.3
+177.0408 	4.4
+195.0512 	60.6
+
+
+Name: Erythrose-4-phosphate
+PrecursorMz: 199.0013
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 7.95
+InChiKey: InChI=1S/C4H9O7P/c5-1-3(6)4(7)2-11-12(8,9)10/h1,3-4,6-7H,2H2,(H2,8,9,10)/t3-,4+/m0/s1
+Formula: C4H9O7P 
+Smiles: C([C@H]([C@H](C=O)O)O)OP(=O)(O)O
+Ontology: HMDB0001321
+Num peaks: 16
+48.9827 	2.9
+49.3480 	2.8
+53.9466 	3.3
+59.0142 	4.1
+61.1583 	3.6
+78.9592 	76.1
+96.9698 	100.0
+98.9726 	4.1
+105.0154 	3.0
+138.9806 	9.0
+155.8140 	3.1
+178.8907 	12.5
+180.8898 	6.0
+181.8955 	5.8
+185.6646 	3.0
+198.8981 	19.7
+
+
+Name: Glucaric Acid
+PrecursorMz: 209.0303
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.09
+InChiKey: InChI=1S/C6H10O8/c7-1(3(9)5(11)12)2(8)4(10)6(13)14/h1-4,7-10H,(H,11,12)(H,13,14)/t1-,2-,3-,4+/m0/s1
+Formula: C6H10O8 
+Smiles: [C@H]([C@@H]([C@@H](C(=O)O)O)O)([C@H](C(=O)O)O)O
+Ontology: HMDB0000663
+Num peaks: 21
+55.0190 	4.7
+57.0347 	20.3
+59.0140 	24.9
+68.9984 	1.5
+71.0140 	29.6
+72.9933 	7.0
+73.0297 	1.8
+75.0089 	6.6
+85.0297 	100.0
+87.0090 	3.2
+89.0246 	11.3
+99.0091 	1.3
+103.0040 	2.1
+111.0089 	4.3
+115.0039 	2.3
+129.0198 	7.3
+133.0145 	10.3
+147.0302 	3.6
+173.0091 	1.6
+191.0202 	16.9
+209.0306 	15.0
+
+
+Name: Phosphocreatine
+PrecursorMz: 210.0285
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.31
+InChiKey: InChI=1S/C4H10N3O5P/c1-7(2-3(8)9)4(5)6-13(10,11)12/h2H2,1H3,(H,8,9)(H4,5,6,10,11,12)
+Formula: C4H10N3O5P 
+Smiles: CN(CC(=O)O)/C(=N/P(=O)(O)O)/N
+Ontology: HMDB0001511
+Num peaks: 6
+69.3966 	2.4
+70.2250 	2.7
+71.7069 	2.6
+78.9591 	100.0
+160.7907 	2.5
+193.7412 	2.9
+
+
+Name: 4-aspartyl-phosphate
+PrecursorMz: 211.9966
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.02
+InChiKey: InChI=1S/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/t2-/m0/s1
+Formula: C4H8NO7P 
+Smiles: C([C@@H](C(=O)O)N)C(=O)OP(=O)(O)O
+Ontology: HMDB0012250
+Num peaks: 3
+78.9591		100.0
+96.9696		8.7
+211.9966	9.6
+
+
+Name: 5-Phosphoribosylamine
+PrecursorMz: 228.0279
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.69
+InChiKey: InChI=1S/C5H12NO7P/c6-5-4(8)3(7)2(13-5)1-12-14(9,10)11/h2-5,7-8H,1,6H2,(H2,9,10,11)/t2-,3-,4-,5-/m1/s1
+Formula: C5H12NO7P 
+Smiles: C([C@@H]1[C@H]([C@H]([C@@H](O1)N)O)O)OP(=O)(O)O
+Ontology: HMDB0001128
+Num peaks: 3
+78.9590		100.0
+96.9696		8.6
+228.0279	9.5
+
+
+Name: Ribose-5-phosphate
+PrecursorMz: 229.0119
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.96
+InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h1,3-5,7-9H,2H2,(H2,10,11,12)/t3-,4+,5-/m0/s1
+Formula: C5H11O8P 
+Smiles: C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0001548
+Num peaks: 5
+71.0139 	1.8
+78.9591 	82.0
+96.9697 	100.0
+138.9803 	9.9
+229.0112 	1.5
+
+
+Name: Ribose-1-phosphate
+PrecursorMz: 229.0119
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.11
+InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h3,5-7,9H,1-2H2,(H2,10,11,12)/t3-,5-/m1/s1
+Formula: C5H11O8P 
+Smiles: C([C@H]([C@H](C(=O)COP(=O)(O)O)O)O)O
+Ontology: 
+Num peaks: 5
+71.0139 	1.8
+78.9591 	82.0
+96.9697 	100.0
+138.9803 	9.9
+229.0112 	1.5
+
+
+Name: Ribulose-5-phosphate
+PrecursorMz: 229.0119
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.20
+InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/t4-,5+/m1/s1
+Formula: C5H11O8P 
+Smiles: C([C@H]([C@H](C(=O)CO)O)O)OP(=O)(O)O
+Ontology: HMDB0000618
+Num peaks: 5
+71.0139 	1.8
+78.9591 	82.0
+96.9697 	100.0
+138.9803 	9.9
+229.0112 	1.5
+
+
+Name: Xylulose-5-phosphate
+PrecursorMz: 229.0119
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 11.67
+InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/t4-,5-/m1/s1
+Formula: C5H11O8P 
+Smiles: C([C@H]([C@@H](C(=O)CO)O)O)OP(=O)(O)O
+Ontology: HMDB0000868
+Num peaks: 5
+71.0139 	1.8
+78.9591 	82.0
+96.9697 	100.0
+138.9803 	9.9
+229.0112 	1.5
+
+
+Name: Pyridoxal-5-phosphate
+PrecursorMz: 246.0173
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 12.09
+InChiKey: InChI=1S/C8H10NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2-3,11H,4H2,1H3,(H2,12,13,14)
+Formula: C8H10NO6P 
+Smiles: CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O
+Ontology: HMDB0001491
+Num peaks: 3
+78.9591		100.0
+96.9696		15.4
+246.0173	16.3
+
+
+Name: 6-phosphogluconolactone
+PrecursorMz: 257.0068
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 19.21
+InChiKey: InChI=1S/C6H11O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-5,7-9H,1H2,(H2,11,12,13)/t2-,3-,4+,5-/m1/s1
+Formula: C6H11O9P 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)OP(=O)(O)O
+Ontology: HMDB0001127
+Num peaks: 3
+78.9590		100.0
+96.9696		16.8
+257.0068	14.1
+
+
+Name: Glucosamine-6-Phosphate
+PrecursorMz: 258.0384
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 16.13
+InChiKey: InChI=1S/C6H14NO8P/c7-3-5(9)4(8)2(15-6(3)10)1-14-16(11,12)13/h2-6,8-10H,1,7H2,(H2,11,12,13)/t2-,3-,4-,5-,6+/m1/s1
+Formula: C6H14NO8P 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)N)O)O)OP(=O)(O)O
+Ontology: HMDB0001254
+Num peaks: 6
+78.9592 	63.9
+96.9697 	100.0
+138.9804 	6.0
+199.0012 	5.2
+240.0280 	3.4
+258.0381 	3.2
+
+
+Name: Fructose-6-Phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 16.34
+InChiKey: InChI=1S/C6H13O9P/c7-1-3(8)5(10)6(11)4(9)2-15-16(12,13)14/h4-7,9-11H,1-2H2,(H2,12,13,14)/t4-,5-,6-/m1/s1
+Formula: C6H13O9P 
+Smiles: C([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)OP(=O)(O)O
+Ontology: HMDB0000124
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: Galactose-1-phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.44
+InChiKey: InChI=1S/C6H13O9P/c7-1-2-3(8)4(9)5(10)6(14-2)15-16(11,12)13/h2-10H,1H2,(H2,11,12,13)/t2-,3+,4+,5-,6-/m1/s1
+Formula: C6H13O9P 
+Smiles: C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)O
+Ontology: HMDB0000645
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: Galactose-6-phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.89
+InChiKey: InChI=1S/C6H13O9P/c7-1-3(8)5(10)6(11)4(9)2-15-16(12,13)14/h1,3-6,8-11H,2H2,(H2,12,13,14)/t3-,4+,5+,6-/m0/s1
+Formula: C6H13O9P 
+Smiles: C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O)OP(=O)(O)O
+Ontology: 
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: Glucose-1-phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 16.75
+InChiKey: InChI=1S/C6H13O9P/c7-1-2-3(8)4(9)5(10)6(14-2)15-16(11,12)13/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6-/m1/s1
+Formula: C6H13O9P 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)OP(=O)(O)O)O)O)O)O
+Ontology: HMDB0001586
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: Glucose-6-phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 19.20
+InChiKey: InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6?/m1/s1
+Formula: C6H13O9P 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0001401
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: Mannose-1 with Mannose-6-phosphate
+PrecursorMz: 259.0224
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 18.07
+InChiKey: 
+Formula: C6H13O9P 
+Smiles: 
+Ontology: 
+Num peaks: 5
+78.9592 	100.0
+96.9697 	13.7
+138.9804 	7.1
+241.0120 	6.5
+259.0226 	6.7
+
+
+Name: 2,3-Bisphosphoglycerate
+PrecursorMz: 264.9520
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.47
+InChiKey: InChI=1S/C3H8O10P2/c4-3(5)2(13-15(9,10)11)1-12-14(6,7)8/h2H,1H2,(H,4,5)(H2,6,7,8)(H2,9,10,11)/t2-/m1/s1
+Formula: C3H8O10P2
+Smiles: O=P(O)(OC(C(=O)O)COP(=O)(O)O)O
+Ontology: HMDB0001294
+Num peaks: 5
+78.9590 	78.8
+96.9601 	68.6
+166.9749 	67.7
+203.0863 	43.3
+264.9529 	1.1
+
+
+Name: 6-phosphogluconate
+PrecursorMz: 275.0174
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.31
+InChiKey: InChI=1S/C6H13O10P/c7-2(1-16-17(13,14)15)3(8)4(9)5(10)6(11)12/h2-5,7-10H,1H2,(H,11,12)(H2,13,14,15)/t2-,3-,4+,5-/m1/s1
+Formula: C6H13O10P 
+Smiles: C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0001316
+Num peaks: 22
+57.0347 	2.2
+59.0140 	1.9
+60.0919 	1.2
+71.0141 	7.4
+75.0091 	2.8
+78.9592 	85
+85.0298 	2.6
+86.8513 	1.4
+89.0249 	2.3
+96.9698 	100.0
+99.0089 	9.1
+103.4347 	1.2
+116.9288 	8.7
+118.9271 	2.7
+129.0192 	7.3
+139.3095 	1.3
+175.6667 	1.3
+177.0408 	7.9
+195.0517 	3.1
+257.0082 	4.8
+271.7036 	1.5
+275.0185 	11.5
+
+
+Name: Sedoheptulose-7-phosphate
+PrecursorMz: 289.0330
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.17
+InChiKey: InChI=1S/C7H15O10P/c8-1-3(9)5(11)7(13)6(12)4(10)2-17-18(14,15)16/h4-8,10-13H,1-2H2,(H2,14,15,16)/t4-,5-,6-,7+/m1/s1
+Formula: C7H15O10P 
+Smiles: C([C@H]([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0258206
+Num peaks: 6
+78.9591 	36.4
+96.9697 	100
+138.9807 	5.7
+168.9909 	1.1
+199.0017 	8
+289.0334 	4.9
+
+
+Name: Argininosuccinic Acid
+PrecursorMz: 289.1154
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.83
+InChiKey: InChI=1S/C10H18N4O6/c11-5(8(17)18)2-1-3-13-10(12)14-6(9(19)20)4-7(15)16/h5-6H,1-4,11H2,(H,15,16)(H,17,18)(H,19,20)(H3,12,13,14)/t5-,6-/m0/s1
+Formula: C10H18N4O6 
+Smiles: C(C[C@@H](C(=O)O)N)CN=C(N)N[C@@H](CC(=O)O)C(=O)O
+Ontology: HMDB0000052
+Num peaks: 5
+59.0138 	0.5
+96.9695 	100.0
+115.0030 	1.5
+185.0927 	0.4
+232.9248 	0.5
+
+
+Name: Cytidine 3',5'-cyclic monophosphate
+PrecursorMz: 304.0340
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 2.95
+InChiKey: InChI=1S/C9H12N3O7P/c10-5-1-2-12(9(14)11-5)8-6(13)7-4(18-8)3-17-20(15,16)19-7/h1-2,4,6-8,13H,3H2,(H,15,16)(H2,10,11,14)/t4-,6-,7-,8-/m1/s1
+Formula: C9H12N3O7P 
+Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=NC3=O)N)O)OP(=O)(O1)O
+Ontology: HMDB0000052
+Num peaks: 2
+192.9904 	80.0
+78.9592 	100.0
+
+
+Name: 2'-Deoxycytidine-5'-monophosphate
+PrecursorMz: 306.0497
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.87
+InChiKey: InChI=1S/C9H14N3O7P/c10-7-1-2-12(9(14)11-7)8-3-5(13)6(19-8)4-18-20(15,16)17/h1-2,5-6,8,13H,3-4H2,(H2,10,11,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+Formula: C9H14N3O7P 
+Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
+Ontology: HMDB0001202
+Num peaks: 9
+67.0301 	2.0
+78.9591 	100.0
+96.9697 	36.3
+110.0362 	14.8
+150.9801 	1.2
+176.9960 	6.9
+195.0066 	19.9
+263.0441 	1.2
+306.0500 	12.6
+
+
+Name: Thymidine Monophosphate
+PrecursorMz: 321.0493
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 10.05
+InChiKey: InChI=1S/C9H14N3O7P/c10-7-1-2-12(9(14)11-7)8-3-5(13)6(19-8)4-18-20(15,16)17/h1-2,5-6,8,13H,3-4H2,(H2,10,11,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+Formula: C10H15N2O8P 
+Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
+Ontology: HMDB0001202
+Num peaks: 7
+78.9592 	100.0
+96.9698 	23.1
+125.0360 	34.8
+150.9802 	1.1
+176.9961 	7.9
+195.0066 	24.2
+321.0498 	7.9
+
+
+Name: Cytidine monophosphate
+PrecursorMz: 322.0446
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 16.68
+InChiKey: InChI=1S/C9H14N3O8P/c10-5-1-2-12(9(15)11-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+Formula: C9H14N3O8P 
+Smiles: C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
+Ontology: HMDB0000095
+Num peaks: 9
+67.0304 	1.2
+78.9592 	100
+96.9698 	45.2
+110.0361 	3.6
+138.9804 	5.1
+150.9806 	2.2
+211.0020 	2.5
+279.0385 	1.1
+322.0449 	10.5
+
+
+Name: Uridine Monophosphate
+PrecursorMz: 323.0286
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.75
+InChiKey: InChI=1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+Formula: C9H13N2O9P 
+Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
+Ontology: HMDB0000288
+Num peaks: 9
+78.9591 	100.0
+96.9697 	59.4
+111.0201 	14.5
+138.9804 	4.4
+150.9804 	5.6
+192.9915 	2.1
+211.0014 	6.3
+280.0234 	3.2
+323.0288 	11.5
+
+
+Name: Adenosine 3',5'-cyclic monophosphate
+PrecursorMz: 328.0452
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 1.53
+InChiKey: InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1
+Formula: C10H12N5O6P 
+Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O
+Ontology: HMDB0000058
+Num peaks: 7
+78.9592 	31.6
+96.9697 	1.9
+107.0365 	3.2
+134.0474 	100.0
+134.9854 	1.5
+192.9913 	1.1
+328.0457 	31.6
+
+
+Name: 2'-Deoxyadenosine 5'-monophosphate
+PrecursorMz: 330.0609
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 12.00
+InChiKey: InChI=1S/C10H14N5O6P/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(21-7)2-20-22(17,18)19/h3-7,16H,1-2H2,(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+Formula: C10H14N5O6P 
+Smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O
+Ontology: HMDB0000905
+Num peaks: 16
+50.7364 	1.5
+58.9649 	2.0
+75.0798 	1.5
+78.9592 	100.0
+86.2408 	1.7
+90.6837 	1.6
+96.9697 	25.4
+107.0370 	1.7
+122.6737 	1.5
+134.0474 	58.0
+154.9368 	1.8
+176.9958 	8.3
+195.0066 	16.1
+225.0469 	1.6
+248.0172 	1.9
+330.0620 	4.3
+
+
+Name: Fructose-1,6-bisphosphate
+PrecursorMz: 338.9888
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.48
+InChiKey: InChI=1S/C6H14O12P2/c7-4-3(1-16-19(10,11)12)18-6(9,5(4)8)2-17-20(13,14)15/h3-5,7-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5+,6-/m1/s1
+Formula: C6H14O12P2 
+Smiles: C([C@@H]1[C@H]([C@@H]([C@](O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0001058
+Num peaks: 13
+59.1515 	1.4
+73.6915 	1.1
+78.9592 	51.3
+96.9697 	100.0
+131.0136 	1.2
+138.9806 	5.3
+150.9806 	2.2
+158.9251 	6.3
+168.9916 	1.4
+176.9363 	4.9
+216.4170 	1.1
+241.0117 	5.2
+338.9912 	1.9
+
+
+Name: Lactose
+PrecursorMz: 341.1089
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 
+InChiKey: InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8(18)7(10)17/h3-20H,1-2H2/t3-,4-,5+,6+,7-,8-,9-,10-,11-,12+/m1/s1
+Formula: C12H22O11 
+Smiles: C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+Ontology: HMDB0041627
+Num peaks: 30
+54.2591		2.1	
+59.0125		60.6	
+69.0332		2.5	
+71.0125		91.8	
+71.0489		1.6	
+73.0282		100.0	
+78.9578		10.9	
+81.0335		3.9	
+83.0127		17.8	
+85.0281		3.9	
+87.0076		9.4	
+89.0232		43.3	
+95.0123		6.3	
+96.9684		10.3	
+97.0283		64.2	
+99.0440		2.7	
+101.0232	88.4	
+113.0233	26.0	
+115.0391	14.8	
+119.0335	5.9	
+125.0235	8.2	
+131.0336	2.2	
+143.0340	15.0	
+161.0446	41.9	
+179.0555	12.3	
+212.0327	20.3	
+219.4103	2.6	
+221.0678	3.4	
+230.3818	1.7	
+254.9442	1.8
+
+
+Name: Sucrose
+PrecursorMz: 341.1089
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 4.19
+InChiKey: InChI=1S/C14H26N4O11P2/c1-18(2,3)6-7-26-30(22,23)29-31(24,25)27-8-9-11(19)12(20)13(28-9)17-5-4-10(15)16-14(17)21/h4-5,9,11-13,19-20H,6-8H2,1-3H3,(H3-,15,16,21,22,23,24,25)/t9-,11-,12-,13-/m1/s1
+Formula: C12H22O11 
+Smiles: O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
+Ontology: HMDB0041627
+Num peaks: 13
+59.0139 	100
+59.8303 	5.1
+66.3518 	4.6
+71.0139 	45.5
+73.4686 	5.1
+78.5258 	5.3
+89.0247 	56.9
+101.0247 	15.7
+113.0246 	13.5
+119.0356 	10.2
+129.9508 	4.7
+163.3332 	5.2
+199.2795 	5.7
+
+
+Name: cGMP
+PrecursorMz: 344.0402
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 3.31
+InChiKey: InChI=1S/C10H12N5O7P/c11-10-13-7-4(8(17)14-10)12-2-15(7)9-5(16)6-3(21-9)1-20-23(18,19)22-6/h2-3,5-6,9,16H,1H2,(H,18,19)(H3,11,13,14,17)/t3-,5-,6-,9-/m1/s1
+Formula: C10H12N5O7P 
+Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=C(NC4=O)N)O)OP(=O)(O1)O
+Ontology: HMDB0001314
+Num peaks: 14
+58.0298 	22.1
+84.0453 	18.5
+102.0560 	24.4
+126.0434 	43.2
+135.0560 	31.3
+153.0669 	100.0
+177.0338 	4.6
+179.0458 	93.2
+191.0229 	20.3
+209.0338 	57.8
+213.0334 	6.7
+235.0123 	43.2
+239.0434 	21.5
+298.0446 	40.0
+
+
+Name: Adenosine Monophosphate
+PrecursorMz: 346.0558
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.14
+InChiKey: InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+Formula: C10H14N5O7P 
+Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
+Ontology: HMDB0000045
+Num peaks: 8
+78.9592 	100
+96.9697 	27.9
+134.0474 	16.8
+138.9801 	1.2
+150.9803 	3.3
+192.9907 	1.2
+211.0015 	2.1
+346.0565 	11.3
+
+
+Name: Inosine 5'-monophosphate
+PrecursorMz: 347.0398
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.96
+InChiKey: InChI=1S/C10H13N4O8P/c15-6-4(1-21-23(18,19)20)22-10(7(6)16)14-3-13-5-8(14)11-2-12-9(5)17/h2-4,6-7,10,15-16H,1H2,(H,11,12,17)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+Formula: C10H13N4O8P 
+Smiles: C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O
+Ontology: HMDB0000175
+Num peaks: 9
+78.9591 	100
+92.0255 	5.1
+96.9697 	38.1
+135.0315 	24.1
+138.9799 	1.6
+150.9802 	3.8
+192.9910 	1.4
+211.0015 	3.7
+347.0404 	12.2
+
+
+Name: Guanosine-5'-monophosphate
+PrecursorMz: 362.0507
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 18.20
+InChiKey: InChI=1S/C10H14N5O8P/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(23-9)1-22-24(19,20)21/h2-3,5-6,9,16-17H,1H2,(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+Formula: C10H14N5O8P 
+Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N=C(NC2=O)N
+Ontology: HMDB0001397
+Num peaks: 6
+78.9592 	100.0
+96.9698 	12.3
+133.0158 	3.9
+150.0425 	5.7
+211.0017 	7.0
+362.0515 	6.5
+
+
+Name: XMP
+PrecursorMz: 363.0347
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 18.95
+InChiKey: InChI=1S/C10H13N4O9P/c15-5-3(1-22-24(19,20)21)23-9(6(5)16)14-2-11-4-7(14)12-10(18)13-8(4)17/h2-3,5-6,9,15-16H,1H2,(H2,19,20,21)(H2,12,13,17,18)/t3-,5-,6-,9-/m1/s1
+Formula: C10H13N4O9P 
+Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=O)NC2=O
+Ontology: HMDB0001554
+Num peaks: 5
+78.9590		100.0
+96.9696		13.9
+320.0289	8.9
+345.0242	7.8
+363.0347	21.7
+
+
+Name: Orotidine 5'-monophosphate
+PrecursorMz: 367.0184
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.73
+InChiKey: InChI=1/C10H13N2O11P/c13-5-1-3(9(16)17)12(10(18)11-5)8-7(15)6(14)4(23-8)2-22-24(19,20)21/h1,4,6-8,14-15H,2H2,(H,16,17)(H,11,13,18)(H2,19,20,21)/t4-,6-,7-,8-/m1/s1
+Formula: C10H13N2O11P 
+Smiles: c1c(n(c(=O)nc1O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C(=O)O
+Ontology: HMDB0000218
+Num peaks: 8
+78.9590		100.0
+96.9696		17.8
+111.0200	3.4
+295.0337	6.8
+305.0180	10.7
+323.0286	5.9
+339.0235	4.2
+367.0184	6.5
+
+
+Name: NADPH
+PrecursorMz: 744.0838
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 21.16
+InChiKey: ACFIXJIJDZMPPO-NNYOXOHSBY
+Formula: C21H30N7O17P3
+Smiles: c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=CCC(=C5)C(=O)N)O)O)O)OP(=O)(O)O)N
+Ontology: HMDB0000221
+Num peaks: 26
+78.9591 	100
+92.0258 	1.4
+96.9698 	11.3
+107.0363 	5.2
+120.9694 	3.1
+134.0474 	67.4
+135.0510 	1.8
+146.9851 	1.1
+150.9803 	2.3
+158.9256 	26.1
+174.9805 	13.0
+175.9582 	6.8
+176.9358 	2.7
+192.9905 	1.3
+211.0015 	13
+254.9477 	3.1
+272.9569 	6.4
+290.9677 	2.9
+304.0115 	2.4
+317.0556 	2.1
+335.0651 	10.9
+346.0542 	1.0
+352.9231 	1.0
+397.0208 	6.4
+408.0146 	1.4
+664.1206 	1.5
+
+
+Name: Phosphoribosylpyrophosphate
+PrecursorMz: 389.9524
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 24.52
+InChiKey: InChI=1S/C5H13O14P3/c6-3-2(1-16-20(8,9)10)17-5(4(3)7)18-22(14,15)19-21(11,12)13/h2-7H,1H2,(H,14,15)(H2,8,9,10)(H2,11,12,13)/t2-,3-,4-,5-/m1/s1
+Formula: C5H14O14P3 
+Smiles: C([C@@H]1[C@H]([C@H]([C@H](O1)OP(=O)(O)OP(=O)(O)O)O)O)OP(=O)(O)O
+Ontology: HMDB0000280
+Num peaks: 3
+78.9591		67.7
+158.9254	100.0
+388.9445	28.5
+
+
+Name: Cytidine 5'-diphosphate
+PrecursorMz: 402.0109
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.36
+InChiKey: InChI=1S/C9H15N3O11P2/c10-5-1-2-12(9(15)11-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+Formula: C9H15N3O11P2 
+Smiles: C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0001546
+Num peaks: 10
+53.5256 	3.5
+55.4247 	3.5
+78.9592 	100
+104.8695 	4.3
+117.1033 	4.0
+121.0830 	3.6
+158.9259 	31.4
+292.0743 	3.8
+306.9246 	3.9
+384.0031 	5.0
+
+
+Name: Uridine 5'-diphosphate
+PrecursorMz: 402.9949
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 18.27
+InChiKey: InChI=1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+Formula: C9H14N2O12P2 
+Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0000295
+Num peaks: 13
+78.9591 	100.0
+96.9697 	6.0
+111.0201 	24.7
+158.9256 	57.5
+174.9804 	1.1
+176.9359 	1.1
+192.9908 	1.7
+272.9572 	10.0
+290.9675 	2.1
+305.0173 	4.4
+323.0289 	3.0
+384.9851 	8.0
+402.9956 	8.7
+
+
+Name: dADP
+PrecursorMz: 410.0272
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 19.09
+InChiKey: InChI=1S/C10H15N5O9P2/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(23-7)2-22-26(20,21)24-25(17,18)19/h3-7,16H,1-2H2,(H,20,21)(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+Formula: C10H15N5O9P2 
+Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0001508
+Num peaks: 16
+41.9985		9.1
+78.9591		100.0
+80.9747		6.7
+82.9903		5.1
+96.9696 	3.5
+111.0200	4.7
+158.9254	14.9
+176.9359	6.5
+192.9907	3.1
+211.0013	6.4
+290.9676	7.4
+305.0180	6.9
+305.9785	9.7
+359.9891	3.2
+384.9844	12.3
+402.9949	19.8
+
+
+Name: Adenosine-5'-diphosphate
+PrecursorMz: 426.0221
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.45
+InChiKey: InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+Formula: C10H15N5O10P2 
+Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
+Ontology: HMDB0001341
+Num peaks: 9
+78.9592 	100.0
+96.9698 	2.9
+134.0475 	29.1
+158.9257 	44.5
+272.9574 	5.9
+328.0461 	7.2
+346.0572 	1.8
+408.0125 	8.2
+426.0231 	7.6
+
+
+Name: Guanosine 5'-diphosphate
+PrecursorMz: 442.0171
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 21.51
+InChiKey: InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+Formula: C10H15N5O11P2 
+Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
+Ontology: HMDB0001201
+Num peaks: 11
+78.9591 	100.0
+96.9700 	2.4
+133.0159 	5.2
+150.0423 	30.4
+158.9256 	54.0
+211.0012 	1.2
+272.9580 	3.3
+344.0406 	13.5
+362.0524 	1.8
+424.0072 	9.8
+442.0178 	6.7
+
+
+Name: Adenylosuccinate
+PrecursorMz: 462.0668
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 21.87
+InChiKey: InChI=1S/C14H18N5O11P/c20-7(21)1-5(14(24)25)18-11-8-12(16-3-15-11)19(4-17-8)13-10(23)9(22)6(30-13)2-29-31(26,27)28/h3-6,9-10,13,22-23H,1-2H2,(H,20,21)(H,24,25)(H,15,16,18)(H2,26,27,28)/t5-,6+,9+,10+,13+/m0/s1
+Formula: C14H18N5O11P 
+Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N[C@@H](CC(=O)O)C(=O)O
+Ontology: HMDB0000536
+Num peaks: 6
+71.0139 	77.6
+115.0035 	100.0
+192.9902 	59.6
+232.0476 	81.2
+284.8290 	18.8
+418.0766 	43.2
+
+
+Name: Cytidine 5'-triphosphate
+PrecursorMz: 481.9772
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.06
+InChiKey: InChI=1S/C9H13N3O5.3H3O4P/c10-5-1-2-12(9(16)11-5)8-7(15)6(14)4(3-13)17-8;3*1-5(2,3)4/h1-2,4,6-8,13-15H,3H2,(H2,10,11,16);3*(H3,1,2,3,4)/t4-,6-,7-,8-;;;/m1.../s1
+Formula: C9H16N3O14P3
+Smiles: c1cn(c(=O)nc1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0000082
+Num peaks: 13
+78.9591 	56.8
+96.9697 	2.4
+110.0361 	3.3
+158.9256 	100.0
+174.9804 	1.6
+176.9361 	4.9
+238.8918 	4.8
+272.9574 	5.7
+304.0347 	1.2
+384.0011 	13.6
+402.0114 	9.0
+463.9669 	1.4
+481.9791 	2.2
+
+
+Name: UTP
+PrecursorMz: 482.9613
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 21.41
+InChiKey: InChI=1S/C9H15N2O15P3/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(24-8)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,21,22)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+Formula: C9H15N2O15P3 
+Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0000285
+Num peaks: 15
+78.9580		11.6
+111.0190	8.3
+158.9240	100.0
+174.9790	1.7
+176.9340	3.1
+176.9350	5.3
+238.8900	6.5
+272.9550	10.6
+272.9560	6.5
+305.0160	1.9
+305.0170	1.4
+384.9810	4.5
+384.9820	12.2
+402.9920	11.0
+402.9930	2.5
+
+
+Name: CDP-choline
+PrecursorMz: 487.1001
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.32
+InChiKey: InChI=1S/C14H26N4O11P2/c1-18(2,3)6-7-26-30(22,23)29-31(24,25)27-8-9-11(19)12(20)13(28-9)17-5-4-10(15)16-14(17)21/h4-5,9,11-13,19-20H,6-8H2,1-3H3,(H3-,15,16,21,22,23,24,25)/t9-,11-,12-,13-/m1/s1
+Formula: C14H26N4O11P2 
+Smiles: C[N+](C)(C)CCOP(=O)([O-])OP(=O)(O)OC[C@@H]1[C@@H](O)[C@@H](O)[C@@H](O1)N2C=CC(N)=NC2=O
+Ontology: HMDB0001413
+Num peaks: 7
+67.0302 	100.0
+109.0404 	16.5
+145.0409 	20.0
+174.9807 	58.8
+243.0117 	24.6
+272.9573 	100.0
+416.0261 	18.8
+
+
+Name: 5-adenylyl-2-aminoadipate
+PrecursorMz: 489.1141
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.10
+InChiKey: InChI=1S/C16H23N6O10P/c17-7(16(26)27)2-1-3-9(23)32-33(28,29)30-4-8-11(24)12(25)15(31-8)22-6-21-10-13(18)19-5-20-14(10)22/h5-8,11-12,15,24-25H,1-4,17H2,(H,26,27)(H,28,29)(H2,18,19,20)/t7-,8+,11+,12+,15+/m0/s1
+Formula: C16H23N6O10P  
+Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OC(=O)CCC[C@@H](C(=O)O)N)O)O)N
+Ontology: HMDB0006941
+Num peaks: 27
+62.9641		19.4
+78.9591		100.0
+80.9747		14.9
+82.9903		5.8
+96.9696		12.9
+98.0611		2.1
+98.9853		5.1
+116.0717	2.8
+124.0404	4.7
+134.0472	9.2
+142.0509	2.1
+178.0275	3.2
+180.0431	2.1
+224.0329	2.7
+230.0799	2.7
+240.0279	2.8
+324.0139	2.9
+328.0452	9.6
+346.0558	11.9
+420.0814	2.9
+443.1086	3.2
+445.1242	3.4
+462.1032	3.4
+471.1035	10.9
+472.0875	5.2
+487.0984	2.3
+489.1140	24.8
+
+
+Name: 2'-deoxyadenosine 5'-triphosphate
+PrecursorMz: 489.9936
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.94
+InChiKey: InChI=1S/C10H16N5O12P3/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(25-7)2-24-29(20,21)27-30(22,23)26-28(17,18)19/h3-7,16H,1-2H2,(H,20,21)(H,22,23)(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+Formula: C10H16N5O12P3  
+Smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
+Ontology: HMDB0001532
+Num peaks: 5
+78.9591		100.0
+96.9696		18.9
+158.9254	81.2
+176.9359	54.9
+489.9935	79.3
+
+
+Name: Dihydroneopterin triphosphate
+PrecursorMz: 493.9885
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 15.00
+InChiKey: InChI=1S/C9H16N5O13P3/c10-9-13-7-5(8(17)14-9)12-3(1-11-7)6(16)4(15)2-25-29(21,22)27-30(23,24)26-28(18,19)20/h4,6,15-16H,1-2H2,(H,21,22)(H,23,24)(H2,18,19,20)(H4,10,11,13,14,17)/t4-,6+/m1/s1
+Formula: C9H16N5O13P3  
+Smiles: C1C(=NC2=C(N1)N=C(NC2=O)N)[C@@H]([C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0000980
+Num peaks: 9
+78.9591		100.0
+96.9696		15.7
+158.9254	44.0
+176.9359	26.2
+238.8917	10.0
+448.9670	8.5
+450.9827	25.6
+475.9779	9.5
+493.9885	39.2
+
+
+Name: Adenosine-5'-triphosphate
+PrecursorMz: 505.9885
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 20.53
+InChiKey: InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+Formula: C10H16N5O13P3  
+Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+Ontology: HMDB0000538
+Num peaks: 13
+78.9591 	61.1
+96.9696 	1.8
+134.0473 	11.8
+158.9256 	100
+174.9805 	2.0
+176.9362 	8.4
+238.8923 	3.8
+272.9571 	7.3
+328.0455 	2.6
+408.0121 	17
+426.0235 	8.5
+487.9754 	1.5
+505.9870 	2.1
+
+
+Name: ITP
+PrecursorMz: 506.9725
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 24.16
+InChiKey: InChI=1S/C10H15N4O14P3/c15-6-4(1-25-30(21,22)28-31(23,24)27-29(18,19)20)26-10(7(6)16)14-3-13-5-8(14)11-2-12-9(5)17/h2-4,6-7,10,15-16H,1H2,(H,21,22)(H,23,24)(H,11,12,17)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+Formula: C10H15N4O14P3  
+Smiles: C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+Ontology: HMDB0000189
+Num peaks: 12
+74.1904 	6.5
+78.9591 	68.9
+88.0780 	7.3
+135.0318 	15.6
+155.0708 	8.2
+158.9254 	100.0
+174.9783 	6.9
+192.5626 	5.6
+272.0685 	6.0
+272.9580 	12.5
+279.0635 	6.2
+408.9964 	12.2
+
+
+Name: Uridine-5-Diphosphogalactose
+PrecursorMz: 565.0477
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 14.15
+InChiKey: HSCJRCZFDFQWRP-ABVWGUQPBC
+Formula: C15H24N2O17P2
+Smiles: c1cn(c(=O)[nH]c1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)O)O
+Ontology: HMDB0000302
+Num peaks: 20
+78.9591 	100.0
+96.9697 	36.0
+111.0202 	10.4
+120.9697 	1.6
+138.9807 	3.2
+150.9805 	2.7
+158.9256 	23.0
+174.9808 	1.8
+176.9360 	1.9
+192.9911 	1.6
+211.0015 	6.8
+241.0118 	4.7
+272.9572 	9.1
+280.0231 	3.7
+305.0186 	2.4
+320.9783 	6.3
+323.0288 	53.9
+384.9849 	12.4
+402.9956 	4.0
+565.0475 	4.3
+
+
+Name: Uridine-5-Diphosphoglucose
+PrecursorMz: 565.0477
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.83
+InChiKey: InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1/i14T
+Formula: C15H24N2O17P2
+Smiles: [3H][C@]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O
+Ontology: HMDB0000286
+Num peaks: 20
+78.9592 	100.0
+96.9698 	39.9
+111.0203 	9.7
+120.9699 	2.4
+138.9804 	3.7
+150.9803 	3.4
+158.9256 	18.0
+174.9801 	1.4
+176.9363 	1.7
+192.9908 	1.7
+211.0016 	6.1
+241.0122 	14.3
+272.9572 	6.9
+280.0232 	4.1
+305.0178 	2.0
+320.9782 	5.3
+323.0289 	56.7
+384.9847 	7.7
+402.9969 	2.0
+565.0479 	2.7
+
+
+Name: NADP
+PrecursorMz: 742.0682
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 22.02
+InChiKey: InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1
+Formula: C21H28N7O17P3
+Smiles: O=C(N)c1ccc[n+](c1)[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(=O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4ncnc5N)[C@@H]([C@@H]3O)OP(=O)(O)O
+Ontology: HMDB0000217
+Num peaks: 29
+78.9591 	100.0
+96.9698 	10.0
+120.9700 	1.5
+134.0474 	16.2
+146.9855 	1.6
+158.9256 	56.0
+174.9803 	17.4
+176.9366 	4.2
+192.9904 	2.1
+211.0014 	1.0
+214.0135 	1.1
+254.9465 	6.0
+272.9572 	29.7
+290.9675 	5.4
+310.0342 	1.0
+328.0454 	5.6
+334.9124 	1.1
+346.0572 	1.3
+352.9224 	1.9
+370.9361 	1.5
+408.0119 	41.2
+426.0232 	6.5
+484.9671 	3.5
+487.9772 	3.4
+505.9873 	4.1
+522.0437 	4.2
+540.0553 	9.5
+602.0076 	1.9
+620.0208 	8.5
+
+
+Name: FAD
+PrecursorMz: 784.1499
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 10.46
+InChiKey: InChI=1S/C27H33N9O15P2/c1-10-3-12-13(4-11(10)2)35(24-18(32-12)25(42)34-27(43)33-24)5-14(37)19(39)15(38)6-48-52(44,45)51-53(46,47)49-7-16-20(40)21(41)26(50-16)36-9-31-17-22(28)29-8-30-23(17)36/h3-4,8-9,14-16,19-21,26,37-41H,5-7H2,1-2H3,(H,44,45)(H,46,47)(H2,28,29,30)(H,34,42,43)/t14-,15+,16+,19-,20+,21+,26+/m0/s1
+Formula: C27H33N9O15P2
+Smiles: c12cc(C)c(C)cc1N=C3C(=O)NC(=O)N=C3N2C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@@H](O)[C@@H](O)[C@@H](O4)n5cnc6c5ncnc6N
+Ontology: HMDB0001248
+Num peaks: 23
+96.9697 	100
+134.0474 	11.6
+138.9804 	1.6
+150.9802 	2.1
+158.9255 	13.5
+162.9805 	5.5
+176.9364 	1.6
+180.9910 	22.7
+195.0063 	4.7
+198.0670 	2.0
+211.0021 	2.5
+212.0831 	3.5
+241.0732 	6.7
+255.0888 	6.7
+260.9569 	1.1
+272.9572 	4.7
+346.0561 	34.8
+408.0119 	9.0
+419.0764 	1.5
+437.0876 	21.4
+455.0981 	1.3
+517.0547 	5.6
+784.1503 	1.6
+
+
+Name: Acetyl-CoA
+PrecursorMz: 808.1185
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.84
+InChiKey: InChI=1S/C23H38N7O17P3S/c1-12(31)51-7-6-25-14(32)4-5-26-21(35)18(34)23(2,3)9-44-50(41,42)47-49(39,40)43-8-13-17(46-48(36,37)38)16(33)22(45-13)30-11-29-15-19(24)27-10-28-20(15)30/h10-11,13,16-18,22,33-34H,4-9H2,1-3H3,(H,25,32)(H,26,35)(H,39,40)(H,41,42)(H2,24,27,28)(H2,36,37,38)/t13-,16-,17-,18+,22-/m1/s1
+Formula: C23H38N7O17P3S
+Smiles: CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N
+Ontology: HMDB0001206
+Num peaks: 13
+134.0470	74.3
+272.9569	35.1
+328.0450	23.1
+339.0779	19.0
+346.0551	8.2
+381.0888	31.2
+408.0107	100
+426.0218	45.2
+461.0551	61.9
+479.0655	17.3
+710.1392	2.0
+728.1508	55.4
+808.1169	11.6
+
+
+Name: Malonyl-CoA
+PrecursorMz: 852.1083
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.15
+InChiKey: InChI=1S/C24H38N7O19P3S/c1-24(2,19(37)22(38)27-4-3-13(32)26-5-6-54-15(35)7-14(33)34)9-47-53(44,45)50-52(42,43)46-8-12-18(49-51(39,40)41)17(36)23(48-12)31-11-30-16-20(25)28-10-29-21(16)31/h10-12,17-19,23,36-37H,3-9H2,1-2H3,(H,26,32)(H,27,38)(H,33,34)(H,42,43)(H,44,45)(H2,25,28,29)(H2,39,40,41)/t12-,17-,18-,19+,23-/m1/s1
+Formula: C24H38N7O19P3S
+Smiles: CC(C)(COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC(=O)CC(=O)O)O
+Ontology: HMDB0001175
+Num peaks: 32
+96.9696 	19.8
+107.0363 	1.1
+134.0472 	57.4
+158.9255 	100.0
+174.9803 	8.5
+191.0116 	4.1
+208.0380 	8.2
+211.0010 	1.7
+214.0136 	1.5
+254.9468 	1.7
+272.9570 	30.3
+290.9676 	2.1
+305.0909 	2.8
+328.0449 	17.7
+339.0780 	25.4
+346.0551 	6.1
+381.0885 	20.4
+399.0986 	4.3
+408.0106 	75.4
+426.0216 	36.7
+437.0546 	4.1
+461.0549 	32.1
+479.0658 	10.2
+510.0788	2.5
+686.1405 	6.0
+710.1407 	1.1
+728.1516 	28.2
+754.1310 	7.3
+754.1310 	8.1
+790.1067 	2.0
+808.1183 	7.2
+834.0999 	2.1
+
+
+Name: Succinyl-CoA
+PrecursorMz: 866.1240
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 13.82
+InChiKey: InChI=1S/C25H40N7O19P3S/c1-25(2,20(38)23(39)28-6-5-14(33)27-7-8-55-16(36)4-3-15(34)35)10-48-54(45,46)51-53(43,44)47-9-13-19(50-52(40,41)42)18(37)24(49-13)32-12-31-17-21(26)29-11-30-22(17)32/h11-13,18-20,24,37-38H,3-10H2,1-2H3,(H,27,33)(H,28,39)(H,34,35)(H,43,44)(H,45,46)(H2,26,29,30)(H2,40,41,42)/t13-,18-,19-,20+,24-/m1/s1
+Formula: C25H40N7O19P3S
+Smiles: O=C(O)CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
+Ontology: HMDB0001022
+Num peaks: 18
+96.9697 	17.4
+134.0473 	53.2
+158.9254 	100.0
+174.9804 	5.1
+202.0553 	6.8
+203.0862 	17.6
+208.0383 	7.4
+272.9571 	23.5
+328.0449 	13.1
+339.0780 	38.8
+357.0886 	6.1
+408.0107 	62.2
+426.0213 	33.5
+419.0449 	16.5
+519.0614 	15.3
+537.0726 	3.2
+686.1435 	5.6
+786.1577 	27.6
