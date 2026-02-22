@@ -5,7 +5,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.35
-InChiKey: InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+InChiKey: AEMRFAOFKBGASW-UHFFFAOYSA-N
 Formula: C2H4O3
 Smiles: C(C(=O)O)O
 Ontology: HMDB0000115
@@ -15,6 +15,23 @@ Num peaks: 3
 75.0089 	100.0
 
 
+Name: Phosphohydroxypyruvate
+PrecursorMz: 182.9700
+Precursor_type: [M-H]-
+Collision_energy:  30.0,50.0,70.0
+Ionization: ESI
+IonMode: negative
+RetentionTime: 17.17
+InChiKey: LFLUCDOSQPJJBE-UHFFFAOYSA-N
+Formula: C3H5O7P
+Smiles: C(C(=O)C(=O)O)OP(=O)(O)O
+Ontology: HMDB0001024
+Num peaks: 3
+78.9590 	100.0
+96.9696 	40.0
+182.9700 	45.0s
+
+
 Name: Urocanic acid
 PrecursorMz: 137.0357
 Precursor_type: [M-H]-
@@ -22,7 +39,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.00
-InchiI: LOIYMIARKYCTBW-OWOJBTEDBA
+InChiKey: LOIYMIARKYCTBW-OWOJBTEDBA
 Formula: C6H6N2O2
 Smiles: C1=C(NC=N1)/C=C/C(=O)O
 Ontology: HMDB0000301
@@ -41,7 +58,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.46
-InchiI: POJWUDADGALRAB-UHFFFAOYSA-N
+InChiKey: POJWUDADGALRAB-UHFFFAOYSA-N
 Formula: C4H6N4O3
 Smiles: C1(C(=O)NC(=O)N1)NC(=O)N
 Ontology: HMDB0000462
@@ -99,7 +116,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.53 
-InChiKey: InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)
+InChiKey: KRKNYBCHXYNGOX-UHFFFAOYSA-N
 Formula: C6H8O7 
 Smiles: C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Ontology: HMDB0000094
@@ -123,7 +140,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.51 
-InChiKey: InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)
+InChiKey: ODBLHEXUDAPZAU-UHFFFAOYSA-N
 Formula: C6H8O7 
 Smiles: C(C(C(C(=O)O)O)C(=O)O)C(=O)O
 Ontology: HMDB0000193
@@ -157,7 +174,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.71
-InChiKey: InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+InChiKey: LCTONWCANYUPML-UHFFFAOYSA-N
 Formula: C3H4O3
 Smiles: CC(=O)C(=O)O
 Ontology: HMDB0000243
@@ -175,7 +192,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.32
-InChiKey: InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)
+InChiKey: JVTAAEKCZFNVCJ-UHFFFAOYSA-N
 Formula: C3H6O3
 Smiles: CC(C(=O)O)O
 Ontology: HMDB0000190
@@ -194,7 +211,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.61
-InChiKey: InChI=1S/C4H6O3/c1-2-3(5)4(6)7/h2H2,1H3,(H,6,7)
+InChiKey: TYEYBOSBBBHJIV-UHFFFAOYSA-N
 Formula: C4H6O3
 Smiles: CCC(=O)C(=O)O
 Ontology: HMDB0000005
@@ -212,7 +229,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.58
-InChiKey: InChI=1S/C4H6O3/c1-3(5)2-4(6)7/h2H2,1H3,(H,6,7)/p-1
+InChiKey: WDJHALXBUFZDSR-UHFFFAOYSA-N
 Formula: C4H6O3
 Smiles: CC(=O)CC(=O)O
 Ontology: HMDB0304256
@@ -232,7 +249,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 8.18
-InChiKey: InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)
+InChiKey: OFOBLEOULBTSOW-UHFFFAOYSA-N
 Formula: C3H4O4
 Smiles: C(C(=O)O)C(=O)O
 Ontology: HMDB0000691
@@ -248,7 +265,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.40
-InChiKey: InChI=1S/C4H8O3/c1-2-3(5)4(6)7/h3,5H,2H2,1H3,(H,6,7)
+InChiKey: AFENDNXGAFYKQO-UHFFFAOYSA-N
 Formula: C4H8O3
 Smiles: CCC(C(=O)O)O
 Ontology: HMDB0000008
@@ -267,7 +284,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.70
-InChiKey: InChI=1S/C4H8O3/c1-3(5)2-4(6)7/h3,5H,2H2,1H3,(H,6,7)/t3-/m1/s1
+InChiKey: WHBMMWSBFZVSSR-UHFFFAOYSA-N
 Formula: C4H8O3
 Smiles: C[C@@H](O)CC(O)=O
 Ontology: HMDB0000011
@@ -286,7 +303,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 8.37
-InChiKey: InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1+
+InChiKey: VZCYOOQTPOCHFL-OWOJBTEDSA-N
 Formula: C4H4O4
 Smiles: C(=C/C(=O)O)\C(=O)O
 Ontology: HMDB0000134
@@ -302,7 +319,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.58
-InChiKey: InChI=1S/C5H8O3/c1-4(6)2-3-5(7)8/h2-3H2,1H3,(H,7,8)
+InChiKey: JOOXCMJARBKPKM-UHFFFAOYSA-N
 Formula: C5H8O3
 Smiles: CC(=O)CCC(=O)O
 Ontology: HMDB0000720
@@ -329,7 +346,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 6.15
-InChiKey: InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
+InChiKey: BPMFZUMJYQTVII-UHFFFAOYSA-N
 Formula: C3H7N3O2
 Smiles: C(C(=O)O)N=C(N)N
 Ontology: HMDB0000128
@@ -345,7 +362,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 6.09
-InChiKey: InChI=1S/C4H6O4/c1-2(3(5)6)4(7)8/h2H,1H3,(H,5,6)(H,7,8)
+InChiKey: ZIYVHBGGAOATLY-UHFFFAOYSA-N
 Formula: C4H6O4
 Smiles: CC(C(=O)O)C(=O)O
 Ontology: HMDB0000202
@@ -363,7 +380,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 9.44
-InChiKey: InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)
+InChiKey: KDYFGRWQOYBRFD-UHFFFAOYSA-N
 Formula: C4H6O4
 Smiles: C(CC(=O)O)C(=O)O
 Ontology: HMDB0000254
@@ -381,7 +398,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.68
-InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2-
+InChiKey: HNEGQIOMVPPMNR-IHWYPQMZSA-N
 Formula: C5H6O4
 Smiles: C/C(=C/C(=O)O)/C(=O)O
 Ontology: HMDB0000634
@@ -397,7 +414,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.01
-InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h1-2H2,(H,6,7)(H,8,9)
+InChiKey: LVHBHZANLOWSRM-UHFFFAOYSA-N
 Formula: C5H6O4
 Smiles: C=C(CC(=O)O)C(=O)O
 Ontology: HMDB0002092
@@ -413,7 +430,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 10.37
-InChiKey: InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2+
+InChiKey: HNEGQIOMVPPMNR-NSCUHMNNSA-N
 Formula: C5H6O4
 Smiles: C/C(=C\C(=O)O)/C(=O)O
 Ontology: HMDB0000749
@@ -433,7 +450,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.56
-InChiKey: InChI=1S/C6H10O3/c1-3-4(2)5(7)6(8)9/h4H,3H2,1-2H3,(H,8,9)/p-1
+InChiKey: JVQYSWDUAOAHFM-UHFFFAOYSA-N
 Formula: C6H10O3
 Smiles: CCC(C)C(=O)C(=O)O
 Ontology: HMDB0037114
@@ -458,7 +475,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.57
-InChiKey: InChI=1S/C6H10O3/c1-4(2)3-5(7)6(8)9/h4H,3H2,1-2H3,(H,8,9)
+InChiKey: BKAJNAXTPSGJCU-UHFFFAOYSA-N
 Formula: C6H10O3
 Smiles: CC(C)CC(=O)C(=O)O
 Ontology: HMDB0000695
@@ -478,7 +495,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 3.49
-InChiKey: InChI=1S/C5H8O4/c1-3(6)5(2,9)4(7)8/h9H,1-2H3,(H,7,8)
+InChiKey: NMDWGEGFJUBKLB-UHFFFAOYSA-N
 Formula: C5H8O4 
 Smiles: CC(=O)C(C)(C(=O)O)O
 Ontology: HMDB0006833
@@ -498,7 +515,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.76
-InChiKey: InChI=1S/C5H8O4/c1-5(2,9)3(6)4(7)8/h9H,1-2H3,(H,7,8)
+InChiKey: DNOPJXBPONYBLB-UHFFFAOYSA-N
 Formula: C5H8O4 
 Smiles: CC(C)(C(=O)C(=O)O)O
 Ontology: HMDB0006833
@@ -515,7 +532,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.60
-InChiKey: InChI=1S/C6H12O3/c1-4(2)3-5(7)6(8)9/h4-5,7H,3H2,1-2H3,(H,8,9)
+InChiKey: LVRFTAZAXQPQHI-UHFFFAOYSA-N
 Formula: C6H12O3 
 Smiles: CC(C)CC(C(=O)O)O
 Ontology: HMDB0000665
@@ -534,7 +551,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 10.62
-InChiKey: InChI=1S/C4H6O5/c5-2(4(8)9)1-3(6)7/h2,5H,1H2,(H,6,7)(H,8,9)
+InChiKey: BJEPYKJPYRNKOW-UHFFFAOYSA-N
 Formula: C4H6O5 
 Smiles: C(C(C(=O)O)O)C(=O)O
 Ontology: HMDB0000691
@@ -557,7 +574,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.26
-InChiKey: InChI=1S/C4H8O5/c5-1-2(6)3(7)4(8)9/h2-3,5-7H,1H2,(H,8,9)/t2-,3+/m1/s1
+InChiKey: JPIJQSOTBSSVTP-GBXIJSLDSA-N
 Formula: C4H8O5 
 Smiles: C([C@H]([C@@H](C(=O)O)O)O)O
 Ontology: HMDB0000943
@@ -583,7 +600,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.54
-InChiKey: InChI=1S/C7H6O3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H,(H,9,10)
+InChiKey: FJKROLUGYXJWQN-UHFFFAOYSA-N
 Formula: C7H6O3 
 Smiles: C1=CC(=CC=C1C(=O)O)O 
 Ontology: HMDB0000500
@@ -599,7 +616,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 15.54
-InChiKey: InChI=1S/C2H5O5P/c1-2(3)7-8(4,5)6/h1H3,(H2,4,5,6)
+InChiKey: LIPOUNRJVLNBCD-UHFFFAOYSA-N
 Formula: C2H5O5P 
 Smiles: CC(=O)OP(=O)(O)O 
 Ontology: HMDB0001494
@@ -619,7 +636,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.01
-InChiKey: InChI=1S/C2H8NO4P/c3-1-2-7-8(4,5)6/h1-3H2,(H2,4,5,6)
+InChiKey: SUHOOTKUPISOBE-UHFFFAOYSA-N
 Formula: C2H8NO4P 
 Smiles: C(COP(=O)(O)O)N
 Ontology: HMDB0000224
@@ -635,7 +652,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 9.43
-InChiKey: InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+InChiKey: KPGXRSRHYNQIFN-UHFFFAOYSA-N
 Formula: C5H6O5 
 Smiles: C(CC(=O)O)C(=O)C(=O)O
 Ontology: HMDB0000208
@@ -658,7 +675,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 9.22
-InChiKey: InChI=1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)
+InChiKey: HWXBTNAVRSUOJR-UHFFFAOYSA-N
 Formula: C5H8O5 
 Smiles: C(CC(=O)O)C(C(=O)O)O
 Ontology: HMDB0059655
@@ -680,7 +697,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.26
-InChiKey: InChI=1S/C5H8O5/c1-5(10,4(8)9)2-3(6)7/h10H,2H2,1H3,(H,6,7)(H,8,9)
+InChiKey: XFTRTWQBIOMVPK-UHFFFAOYSA-N
 Formula: C5H8O5 
 Smiles: CC(CC(=O)O)(C(=O)O)O
 Ontology: HMDB0000426
@@ -702,7 +719,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.59
-InChiKey: InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6+
+InChiKey: WBYWAXJHAXSJNI-VOTSOKGWSA-N
 Formula: C9H8O2 
 Smiles: C1=CC=C(C=C1)/C=C/C(=O)O
 Ontology: HMDB0000930
@@ -743,7 +760,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.65
-InChiKey: InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6+
+InChiKey: PYMYPHUHKUWMLA-LMVFSUKVBD
 Formula: C5H10O5 
 Smiles: C1=CC=C(C=C1)/C=C/C(=O)O
 Ontology: HMDB0000283
@@ -764,7 +781,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 8.20
-InChiKey: InChI=1/C3H7NO4S/c4-2(3(5)6)1-9(7)8/h2H,1,4H2,(H,5,6)(H,7,8)/t2-/m0/s1
+InChiKey: ADVPTQAUNPRNPO-UHFFFAOYSA-N
 Formula: C3H7NO4S 
 Smiles: O=C(O)[C@@H](N)CS(=O)O
 Ontology: HMDB0250705
@@ -784,7 +801,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.96
-InChiKey: InChI=1S/C6H8O5/c7-4(6(10)11)2-1-3-5(8)9/h1-3H2,(H,8,9)(H,10,11)
+InChiKey: FGSBNBBHOZHUBO-UHFFFAOYSA-N
 Formula: C6H8O5 
 Smiles: C(CC(=O)C(=O)O)CC(=O)O
 Ontology: HMDB0000225
@@ -805,7 +822,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 6.26
-InChiKey: InChI=1S/C6H8O5/c7-4(6(10)11)2-1-3-5(8)9/h1-3H2,(H,8,9)(H,10,11)
+InChiKey: HSHOXDTWEUKPND-UHFFFAOYSA-N
 Formula: C6H10O5 
 Smiles: C(CC(=O)C(=O)O)CC(=O)O
 Ontology: HMDB0000225
@@ -834,7 +851,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.96
-InChiKey: InChI=1S/C9H8O3/c10-8-4-1-7(2-5-8)3-6-9(11)12/h1-6,10H,(H,11,12)/b6-3+
+InChiKey: NGSWKAQJJWESNS-ZZXKWVIFSA-N
 Formula: C9H8O3 
 Smiles: C1=CC(=CC=C1/C=C/C(=O)O)O
 Ontology: HMDB0002035
@@ -850,7 +867,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.60
-InChiKey: InChI=1S/C9H8O3/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,11,12)
+InChiKey: BTNMPGBKDVTSJY-UHFFFAOYSA-N
 Formula: C9H8O3 
 Smiles: C1=CC=C(C=C1)CC(=O)C(=O)O
 Ontology: HMDB0000205
@@ -866,7 +883,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.30 
-InChiKey: InChI=1S/C3H5O6P/c1-2(3(4)5)9-10(6,7)8/h1H2,(H,4,5)(H2,6,7,8)
+InChiKey: DTBNBXWJWCWCIK-UHFFFAOYSA-N
 Formula: C3H5O6P 
 Smiles: C=C(C(=O)O)OP(=O)(O)O
 Ontology: HMDB0000263
@@ -882,7 +899,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.64 
-InChiKey: InChI=1S/C8H8O4/c9-6-1-2-7(10)5(3-6)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)
+InChiKey: IGMNYECMUMZDDF-UHFFFAOYSA-N
 Formula: C8H8O4 
 Smiles: C1=CC(=C(C=C1O)CC(=O)O)O
 Ontology: HMDB0000130
@@ -902,7 +919,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 7.01
-InChiKey: InChI=1S/C3H7NO5S/c4-2(3(5)6)1-10(7,8)9/h2H,1,4H2,(H,5,6)(H,7,8,9)
+InChiKey: XVOYSCVBGLVSOL-UHFFFAOYSA-N
 Formula: C3H7NO5S 
 Smiles: C(C(C(=O)O)N)S(=O)(=O)O
 Ontology: HMDB0002757
@@ -921,7 +938,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.81 
-InChiKey: InChI=1S/C4H12NO4P/c1-5(2)3-4-9-10(6,7)8/h3-4H2,1-2H3,(H2,6,7,8)
+InChiKey: BLHVJAAEHMLMOI-UHFFFAOYSA-N
 Formula: C4H12NO4P 
 Smiles: CN(C)CCOP(=O)(O)O
 Ontology: HMDB0060244
@@ -941,7 +958,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 17.89 
-InChiKey: InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h4H,1-2H2,(H2,6,7,8)
+InChiKey: GNGACRATGGDKBX-UHFFFAOYSA-N
 Formula: C3H7O6P 
 Smiles: C(C(=O)COP(=O)(O)O)O
 Ontology: HMDB0247961
@@ -1001,7 +1018,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 15.42 
-InChiKey: InChI=1S/C6H6O6/c7-4(8)1-3(6(11)12)2-5(9)10/h1H,2H2,(H,7,8)(H,9,10)(H,11,12)
+InChiKey: GTZCVFVGUGFEME-UHFFFAOYSA-N
 Formula: C6H6O6 
 Smiles: C(C(=CC(=O)O)C(=O)O)C(=O)O
 Ontology: HMDB0247961
@@ -1029,7 +1046,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.07
-InChiKey: InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h1-5,8-10H/t2-,3+,4-,5+/m0/s1
+InChiKey: UYUXSRADSPPKRZ-SKNVOMKLSA-N
 Formula: C6H8O6 
 Smiles: C(=O)[C@@H]([C@@H]1[C@@H]([C@@H](C(=O)O1)O)O)O
 Ontology: HMDB0006355
@@ -1077,7 +1094,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.01
-InChiKey: InChI=1S/C6H10O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-5,7-10H,1H2/t2-,3-,4+,5-/m1/s1
+InChiKey: PHOQVHQSTUBQQK-SQOUGZDYSA-N
 Formula: C6H10O6 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)O
 Ontology: HMDB0000150
@@ -1104,7 +1121,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.90 
-InChiKey: InChI=1S/C9H9NO3/c11-8(12)6-10-9(13)7-4-2-1-3-5-7/h1-5H,6H2,(H,10,13)(H,11,12)
+InChiKey: QIAFMBKCNZACKA-UHFFFAOYSA-N
 Formula: C9H9NO3 
 Smiles: C1=CC=C(C=C1)C(=O)NCC(=O)O
 Ontology: HMDB0000714
@@ -1148,7 +1165,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.09 
-InChiKey: InChI=1S/C6H12O6/c7-2-6(11)5(10)4(9)3(8)1-12-6/h3-5,7-11H,1-2H2/t3-,4-,5+,6?/m1/s1
+InChiKey: LKDRXBCSQODPBY-VRPWFDPXSA-N
 Formula: C6H12O6 
 Smiles: C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
 Ontology: HMDB0000660
@@ -1169,7 +1186,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.75 
-InChiKey: InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6?/m1/s1
+InChiKey: WQZGKKKJIJFFOK-GASJEMHNSA-N
 Formula: C6H12O6 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
 Ontology: HMDB0304632
@@ -1195,7 +1212,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 6.13
-InChiKey: InChI=1S/C6H12O6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-12H
+InChiKey: CDAISMWEOUEBRE-GPIVLXJGSA-N
 Formula: C6H12O6 
 Smiles: C1(C(C(C(C(C1O)O)O)O)O)O
 Ontology: HMDB0000211
@@ -1238,7 +1255,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.34 
-InChiKey: InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5+,6?/m1/s1
+InChiKey: WQZGKKKJIJFFOK-QTVWNMPRSA-N
 Formula: C6H12O6 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O
 Ontology: HMDB0000169
@@ -1264,7 +1281,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 0.95 
-InChiKey: InChI=1S/C9H10O4/c1-13-8-4-6(5-9(11)12)2-3-7(8)10/h2-4,10H,5H2,1H3,(H,11,12)
+InChiKey: QRMZSPFSDQBLIX-UHFFFAOYSA-N
 Formula: C9H10O4 
 Smiles: COC1=C(C=CC(=C1)CC(=O)O)O
 Ontology: HMDB0000118
@@ -1292,7 +1309,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.53 
-InChiKey: InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4+,5-,6-/m1/s1
+InChiKey: FBPFZTCFMRRESA-JGWLITMVSA-N
 Formula: C6H14O6 
 Smiles: C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
 Ontology: HMDB0000247
@@ -1330,7 +1347,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.00
-InChiI: ACFIXJIJDZMPPO-NNYOXOHSBY
+InChiKey: ACFIXJIJDZMPPO-NNYOXOHSBY
 Formula: C21H30N7O17P3
 Smiles: c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=CCC(=C5)C(=O)N)O)O)O)OP(=O)(O)O)N
 Ontology: HMDB0000221
@@ -1354,7 +1371,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.22
-InChiI: XJLXINKUBYWONI-NNYOXOHSSA-N
+InChiKey: XJLXINKUBYWONI-NNYOXOHSSA-N
 Formula: C21H28N7O17P3
 Smiles: O=C(N)c1ccc[n+](c1)[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(=O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4ncnc5N)[C@@H]([C@@H]3O)OP(=O)(O)O
 Ontology: HMDB0000217
@@ -1399,7 +1416,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.20
-InChiKey: InChI=1S/C3H7O7P/c4-1-2(3(5)6)10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)
+InChiKey: GXIURPTVHJPJLF-RUOZJJLTNA-N
 Formula: C3H7O7P 
 Smiles: C(C(C(=O)O)OP(=O)(O)O)O
 Ontology: HMDB0000362
@@ -1417,7 +1434,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.87
-InChiKey: InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)
+InChiKey: OSJPPGNTCRNQQC-UHFFFAOYSA-N
 Formula: C3H7O7P 
 Smiles: C(C(C(=O)O)O)OP(=O)(O)O
 Ontology: HMDB0000807
@@ -1435,7 +1452,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.10 
-InChiKey: InChI=1S/C9H16O4/c10-8(11)6-4-2-1-3-5-7-9(12)13/h1-7H2,(H,10,11)(H,12,13)
+InChiKey: BDJRBEYXGGNYIS-UHFFFAOYSA-N
 Formula: C9H16O4 
 Smiles: C(CCCC(=O)O)CCCC(=O)O
 Ontology: HMDB0000784
@@ -1456,7 +1473,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.88 
-InChiKey: InChI=1S/C6H10O7/c7-1-2(8)4(5(10)11)13-6(12)3(1)9/h1-4,6-9,12H,(H,10,11)/t1-,2-,3+,4-,6-/m0/s1
+InChiKey: AEMOLEFTQBMNLQ-AQKNRBDQSA-N
 Formula: C6H10O7
 Smiles: O=C(O)[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Ontology: HMDB0000127
@@ -1487,7 +1504,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 4.00
-InChiKey: InChI=1S/C6H12O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h2-5,7-11H,1H2,(H,12,13)/t2-,3-,4+,5-/m1/s1
+InChiKey: RGHNJXZEOKUKBD-SQOUGZDYSA-N
 Formula: C6H12O7 
 Smiles: C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O
 Ontology: HMDB0000625
@@ -1518,7 +1535,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 9.95
-InChiKey: InChI=1S/C4H9O7P/c5-1-3(6)4(7)2-11-12(8,9)10/h1,3-4,6-7H,2H2,(H2,8,9,10)/t3-,4+/m0/s1
+InChiKey: NGHMDNPXVRFFGS-IUYQGCFVSA-N
 Formula: C4H9O7P 
 Smiles: C([C@H]([C@H](C=O)O)O)OP(=O)(O)O
 Ontology: HMDB0001321
@@ -1548,7 +1565,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 14.69
-InChiKey: InChI=1S/C6H10O8/c7-1(3(9)5(11)12)2(8)4(10)6(13)14/h1-4,7-10H,(H,11,12)(H,13,14)/t1-,2-,3-,4+/m0/s1
+InChiKey: DSLZVSRJTYRBFB-LLEIAEIESA-N
 Formula: C6H10O8 
 Smiles: [C@H]([C@@H]([C@@H](C(=O)O)O)O)([C@H](C(=O)O)O)O
 Ontology: HMDB0000663
@@ -1583,7 +1600,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 17.00
-InChiKey: InChI=1S/C4H10N3O5P/c1-7(2-3(8)9)4(5)6-13(10,11)12/h2H2,1H3,(H,8,9)(H4,5,6,10,11,12)
+InChiKey: DRBBFCLWYRJSJZ-UHFFFAOYSA-N
 Formula: C4H10N3O5P 
 Smiles: CN(CC(=O)O)/C(=N/P(=O)(O)O)/N
 Ontology: HMDB0001511
@@ -1603,7 +1620,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.53
-InChiKey: InChI=1S/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/t2-/m0/s1
+InChiKey: IXZNKTPIYKDIGG-REOHCLBHSA-N
 Formula: C4H8NO7P 
 Smiles: C([C@@H](C(=O)O)N)C(=O)OP(=O)(O)O
 Ontology: HMDB0012250
@@ -1620,7 +1637,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.69
-InChiKey: InChI=1S/C5H12NO7P/c6-5-4(8)3(7)2(13-5)1-12-14(9,10)11/h2-5,7-8H,1,6H2,(H2,9,10,11)/t2-,3-,4-,5-/m1/s1
+InChiKey: SKCBPEVYGOQGJN-TXICZTDVSA-N
 Formula: C5H12NO7P 
 Smiles: C([C@@H]1[C@H]([C@H]([C@@H](O1)N)O)O)OP(=O)(O)O
 Ontology: HMDB0001128
@@ -1637,7 +1654,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 17.01
-InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h1,3-5,7-9H,2H2,(H2,10,11,12)/t3-,4+,5-/m0/s1
+InChiKey: PPQRONHOSHZGFQ-LMVFSUKVSA-N
 Formula: C5H11O8P 
 Smiles: C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0001548
@@ -1656,7 +1673,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 15.62
-InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h3,5-7,9H,1-2H2,(H2,10,11,12)/t3-,5-/m1/s1
+InChiKey: YXJDFQJKERBOBM-TXICZTDVSA-N
 Formula: C5H11O8P 
 Smiles: C([C@H]([C@H](C(=O)COP(=O)(O)O)O)O)O
 Ontology: 
@@ -1675,7 +1692,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 17.50
-InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/t4-,5+/m1/s1
+InChiKey: FNZLKVNUWIIPSJ-UHNVWZDZSA-N
 Formula: C5H11O8P 
 Smiles: C([C@H]([C@H](C(=O)CO)O)O)OP(=O)(O)O
 Ontology: HMDB0000618
@@ -1694,7 +1711,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 14.73
-InChiKey: InChI=1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/t4-,5-/m1/s1
+InChiKey: FNZLKVNUWIIPSJ-UHFFFAOYSA-N
 Formula: C5H11O8P 
 Smiles: C([C@H]([C@@H](C(=O)CO)O)O)OP(=O)(O)O
 Ontology: HMDB0000868
@@ -1713,7 +1730,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 12.09
-InChiKey: InChI=1S/C8H10NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2-3,11H,4H2,1H3,(H2,12,13,14)
+InChiKey: NGVDGCNFYWLIFO-UHFFFAOYSA-N
 Formula: C8H10NO6P 
 Smiles: CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O
 Ontology: HMDB0001491
@@ -1730,7 +1747,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.21
-InChiKey: InChI=1S/C6H11O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-5,7-9H,1H2,(H2,11,12,13)/t2-,3-,4+,5-/m1/s1
+InChiKey: IJOJIVNDFQSGAB-VSLJDNTMNA-N
 Formula: C6H11O9P 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)OP(=O)(O)O
 Ontology: HMDB0001127
@@ -1747,7 +1764,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.15
-InChiKey: InChI=1S/C6H13O9P/c7-1-3(8)5(10)6(11)4(9)2-15-16(12,13)14/h4-7,9-11H,1-2H2,(H2,12,13,14)/t4-,5-,6-/m1/s1
+InChiKey: GSXOAOHZAIYLCY-HSUXUTPPSA-N
 Formula: C6H13O9P 
 Smiles: C([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)OP(=O)(O)O
 Ontology: HMDB0000124
@@ -1766,7 +1783,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.95
-InChiKey: InChI=1S/C6H13O9P/c7-1-2-3(8)4(9)5(10)6(14-2)15-16(11,12)13/h2-10H,1H2,(H2,11,12,13)/t2-,3+,4+,5-,6-/m1/s1
+InChiKey: HXXFSFRBOHSIMQ-FPRJBGLDSA-N
 Formula: C6H13O9P 
 Smiles: C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)O
 Ontology: HMDB0000645
@@ -1785,7 +1802,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.96
-InChiKey: InChI=1S/C6H13O9P/c7-1-3(8)5(10)6(11)4(9)2-15-16(12,13)14/h1,3-6,8-11H,2H2,(H2,12,13,14)/t3-,4+,5+,6-/m0/s1
+InChiKey: VFRROHXSMXFLSN-UHFFFAOYSA-N
 Formula: C6H13O9P 
 Smiles: C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O)OP(=O)(O)O
 Ontology: 
@@ -1804,7 +1821,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.39
-InChiKey: InChI=1S/C6H13O9P/c7-1-2-3(8)4(9)5(10)6(14-2)15-16(11,12)13/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6-/m1/s1
+InChiKey: HXXFSFRBOHSIMQ-VFUOTHLCSA-N
 Formula: C6H13O9P 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)OP(=O)(O)O)O)O)O)O
 Ontology: HMDB0001586
@@ -1823,7 +1840,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.18
-InChiKey: InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6?/m1/s1
+InChiKey: VFRROHXSMXFLSN-SLPGGIOYSA-N
 Formula: C6H13O9P 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0001401
@@ -1880,7 +1897,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.77
-InChiKey: InChI=1S/C3H8O10P2/c4-3(5)2(13-15(9,10)11)1-12-14(6,7)8/h2H,1H2,(H,4,5)(H2,6,7,8)(H2,9,10,11)/t2-/m1/s1
+InChiKey: XOHUEYCVLUUEJJ-UHFFFAOYSA-I
 Formula: C3H8O10P2
 Smiles: O=P(O)(OC(C(=O)O)COP(=O)(O)O)O
 Ontology: HMDB0001294
@@ -1899,7 +1916,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.11
-InChiKey: InChI=1S/C6H13O10P/c7-2(1-16-17(13,14)15)3(8)4(9)5(10)6(11)12/h2-5,7-10H,1H2,(H,11,12)(H2,13,14,15)/t2-,3-,4+,5-/m1/s1
+InChiKey: BIRSGZKFKXLSJQ-SQOUGZDYSA-N
 Formula: C6H13O10P 
 Smiles: C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0001316
@@ -1935,7 +1952,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.17
-InChiKey: InChI=1S/C7H15O10P/c8-1-3(9)5(11)7(13)6(12)4(10)2-17-18(14,15)16/h4-8,10-13H,1-2H2,(H2,14,15,16)/t4-,5-,6-,7+/m1/s1
+InChiKey: JDTUMPKOJBQPKX-GBNDHIKLSA-N
 Formula: C7H15O10P 
 Smiles: C([C@H]([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0258206
@@ -1955,7 +1972,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.13
-InChiKey: InChI=1S/C10H18N4O6/c11-5(8(17)18)2-1-3-13-10(12)14-6(9(19)20)4-7(15)16/h5-6H,1-4,11H2,(H,15,16)(H,17,18)(H,19,20)(H3,12,13,14)/t5-,6-/m0/s1
+InChiKey: KDZOASGQNOPSCU-WDSKDSINSA-N
 Formula: C10H18N4O6 
 Smiles: C(C[C@@H](C(=O)O)N)CN=C(N)N[C@@H](CC(=O)O)C(=O)O
 Ontology: HMDB0000052
@@ -1974,14 +1991,13 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.05
-InChiKey: InChI=1S/C9H12N3O7P/c10-5-1-2-12(9(14)11-5)8-6(13)7-4(18-8)3-17-20(15,16)19-7/h1-2,4,6-8,13H,3H2,(H,15,16)(H2,10,11,14)/t4-,6-,7-,8-/m1/s1
+InChiKey: WCPTXJJVVDAEMW-XVFCMESISA-N
 Formula: C9H12N3O7P 
 Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=NC3=O)N)O)OP(=O)(O1)O
 Ontology: HMDB0000052
 Num peaks: 2
 78.9592 	100.0
 192.9904 	80.0
-
 
 
 Name: Thymidine 3',5'-cyclic monophosphate
@@ -2007,7 +2023,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 16.56
-InChiKey: InChI=1S/C9H14N3O7P/c10-7-1-2-12(9(14)11-7)8-3-5(13)6(19-8)4-18-20(15,16)17/h1-2,5-6,8,13H,3-4H2,(H2,10,11,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+InChiKey: NCMVOABPESMRCP-SHYZEUOFSA-N
 Formula: C9H14N3O7P 
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
 Ontology: HMDB0001202
@@ -2023,14 +2039,14 @@ Num peaks: 9
 306.0500 	12.6
 
 
-Name: Thymidine Monophosphate
+Name: Thymidine-5'-Monophosphate
 PrecursorMz: 321.0493
 Precursor_type: [M-H]-
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 11.89
-InChiKey: InChI=1S/C9H14N3O7P/c10-7-1-2-12(9(14)11-7)8-3-5(13)6(19-8)4-18-20(15,16)17/h1-2,5-6,8,13H,3-4H2,(H2,10,11,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+InChiKey: GYOZYWVXFNDGLU-XLPZGREQSA-N
 Formula: C10H15N2O8P 
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
 Ontology: HMDB0001202
@@ -2044,14 +2060,14 @@ Num peaks: 7
 321.0498 	7.9
 
 
-Name: Cytidine monophosphate
+Name: Cytidine-5'-monophosphate
 PrecursorMz: 322.0446
 Precursor_type: [M-H]-
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.68
-InChiKey: InChI=1S/C9H14N3O8P/c10-5-1-2-12(9(15)11-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+InChiKey: IERHLVCPSMICTF-XVFCMESISA-N
 Formula: C9H14N3O8P 
 Smiles: C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
 Ontology: HMDB0000095
@@ -2074,7 +2090,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 15.65
-InChiKey: InChI=1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+InChiKey: DJJCXFVJDGTHFX-XVFCMESISA-N
 Formula: C9H13N2O9P 
 Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
 Ontology: HMDB0000288
@@ -2097,7 +2113,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.43
-InChiKey: InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1
+InChiKey: IVOMOUWHDPKRLL-KQYNXXCUSA-N
 Formula: C10H12N5O6P 
 Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O
 Ontology: HMDB0000058
@@ -2118,7 +2134,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 13.40
-InChiKey: InChI=1S/C10H14N5O6P/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(21-7)2-20-22(17,18)19/h3-7,16H,1-2H2,(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+InChiKey: KHWCHTKSEGGWEX-RRKCRQDMSA-N
 Formula: C10H14N5O6P 
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O
 Ontology: HMDB0000905
@@ -2148,7 +2164,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.48
-InChiKey: InChI=1S/C6H14O12P2/c7-4-3(1-16-19(10,11)12)18-6(9,5(4)8)2-17-20(13,14)15/h3-5,7-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5+,6-/m1/s1
+InChiKey: RNBGYGVWRKECFJ-ARQDHWQXSA-N
 Formula: C6H14O12P2 
 Smiles: C([C@@H]1[C@H]([C@@H]([C@](O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0001058
@@ -2175,7 +2191,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.24
-InChiKey: InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8(18)7(10)17/h3-20H,1-2H2/t3-,4-,5+,6+,7-,8-,9-,10-,11-,12+/m1/s1
+InChiKey: GUBGYTABKSRVRQ-QKKXKWKRSA-N
 Formula: C12H22O11 
 Smiles: C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
 Ontology: HMDB0041627
@@ -2219,7 +2235,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 5.66
-InChiKey: InChI=1S/C14H26N4O11P2/c1-18(2,3)6-7-26-30(22,23)29-31(24,25)27-8-9-11(19)12(20)13(28-9)17-5-4-10(15)16-14(17)21/h4-5,9,11-13,19-20H,6-8H2,1-3H3,(H3-,15,16,21,22,23,24,25)/t9-,11-,12-,13-/m1/s1
+InChiKey: CZMRCDWAGMRECN-UGDNZRGBSA-N
 Formula: C12H22O11 
 Smiles: O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
 Ontology: HMDB0041627
@@ -2239,14 +2255,14 @@ Num peaks: 13
 199.2795 	5.7
 
 
-Name: cGMP
+Name: Guanosine 3',5'-cyclic monophosphate
 PrecursorMz: 344.0402
 Precursor_type: [M-H]-
 Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 4.01
-InChiKey: InChI=1S/C10H12N5O7P/c11-10-13-7-4(8(17)14-10)12-2-15(7)9-5(16)6-3(21-9)1-20-23(18,19)22-6/h2-3,5-6,9,16H,1H2,(H,18,19)(H3,11,13,14,17)/t3-,5-,6-,9-/m1/s1
+InChiKey: ZOOGRGPOEVQQDX-UUOKFMHZSA-N
 Formula: C10H12N5O7P 
 Smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=C(NC4=O)N)O)OP(=O)(O1)O
 Ontology: HMDB0001314
@@ -2293,14 +2309,14 @@ Num peaks: 12
 506.0972 	5.0
 
 
-Name: Adenosine Monophosphate
+Name: Adenosine-5'-Monophosphate
 PrecursorMz: 346.0558
 Precursor_type: [M-H]-
 Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 14.80
-InChiKey: InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+InChiKey: UDMBCSSLTHHNCD-KQYNXXCUSA-N
 Formula: C10H14N5O7P 
 Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 Ontology: HMDB0000045
@@ -2392,7 +2408,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.91
-InChiKey: InChI=1S/C10H14N5O8P/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(23-9)1-22-24(19,20)21/h2-3,5-6,9,16-17H,1H2,(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+InChiKey: RQFCJASXJCIDSX-UUOKFMHZSA-N
 Formula: C10H14N5O8P 
 Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N=C(NC2=O)N
 Ontology: HMDB0001397
@@ -2412,7 +2428,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.65
-InChiKey: InChI=1S/C10H13N4O9P/c15-5-3(1-22-24(19,20)21)23-9(6(5)16)14-2-11-4-7(14)12-10(18)13-8(4)17/h2-3,5-6,9,15-16H,1H2,(H2,19,20,21)(H2,12,13,17,18)/t3-,5-,6-,9-/m1/s1
+InChiKey: DCTLYFZHFGENCW-UUOKFMHZSA-N
 Formula: C10H13N4O9P 
 Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=O)NC2=O
 Ontology: HMDB0001554
@@ -2450,7 +2466,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 14.15
-InChiKey: InChI=1/C10H13N2O11P/c13-5-1-3(9(16)17)12(10(18)11-5)8-7(15)6(14)4(23-8)2-22-24(19,20)21/h1,4,6-8,14-15H,2H2,(H,16,17)(H,11,13,18)(H2,19,20,21)/t4-,6-,7-,8-/m1/s1
+InChiKey: KYOBSHFOBAOFBF-XVFCMESISA-N
 Formula: C10H13N2O11P 
 Smiles: c1c(n(c(=O)nc1O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C(=O)O
 Ontology: HMDB0000218
@@ -2506,7 +2522,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.52
-InChiKey: InChI=1S/C5H13O14P3/c6-3-2(1-16-20(8,9)10)17-5(4(3)7)18-22(14,15)19-21(11,12)13/h2-7H,1H2,(H,14,15)(H2,8,9,10)(H2,11,12,13)/t2-,3-,4-,5-/m1/s1
+InChiKey: PQGCEDQWHSBAJP-TXICZTDVSA-N
 Formula: C5H14O14P3 
 Smiles: C([C@@H]1[C@H]([C@H]([C@H](O1)OP(=O)(O)OP(=O)(O)O)O)O)OP(=O)(O)O
 Ontology: HMDB0000280
@@ -2523,7 +2539,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.95
-InChiKey: InChI=1S/C9H15N3O11P2/c10-5-1-2-12(9(15)11-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+InChiKey: ZWIADYZPOWUWEW-XVFCMESISA-N
 Formula: C9H15N3O11P2 
 Smiles: C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0001546
@@ -2547,7 +2563,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.57
-InChiKey: InChI=1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+InChiKey: XCCTYIAWTASOJW-XVFCMESISA-N
 Formula: C9H14N2O12P2 
 Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0000295
@@ -2574,7 +2590,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.31
-InChiKey: InChI=1S/C10H15N5O9P2/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(23-7)2-22-26(20,21)24-25(17,18)19/h3-7,16H,1-2H2,(H,20,21)(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+InChiKey: DAEAPNUQQAICNR-RRKCRQDMSA-N
 Formula: C10H15N5O9P2 
 Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0001508
@@ -2604,7 +2620,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.45
-InChiKey: InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+InChiKey: XTWYTFMLZFPYCI-KQYNXXCUSA-N
 Formula: C10H15N5O10P2 
 Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
 Ontology: HMDB0001341
@@ -2627,7 +2643,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.51
-InChiKey: InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+InChiKey: QGWNDRXFNXRZMB-UUOKFMHZSA-N
 Formula: C10H15N5O11P2 
 Smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
 Ontology: HMDB0001201
@@ -2652,7 +2668,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.72
-InChiKey: InChI=1S/C14H18N5O11P/c20-7(21)1-5(14(24)25)18-11-8-12(16-3-15-11)19(4-17-8)13-10(23)9(22)6(30-13)2-29-31(26,27)28/h3-6,9-10,13,22-23H,1-2H2,(H,20,21)(H,24,25)(H,15,16,18)(H2,26,27,28)/t5-,6+,9+,10+,13+/m0/s1
+InChiKey: WWOOVEHSSMYXEJ-HLQSMOFHSA-N
 Formula: C14H18N5O11P 
 Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N[C@@H](CC(=O)O)C(=O)O
 Ontology: HMDB0000536
@@ -2672,7 +2688,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.66
-InChiKey: InChI=1S/C9H13N3O5.3H3O4P/c10-5-1-2-12(9(16)11-5)8-7(15)6(14)4(3-13)17-8;3*1-5(2,3)4/h1-2,4,6-8,13-15H,3H2,(H2,10,11,16);3*(H3,1,2,3,4)/t4-,6-,7-,8-;;;/m1.../s1
+InChiKey: PCDQPRRSZKQHHS-XVFCMESISA-N
 Formula: C9H16N3O14P3
 Smiles: c1cn(c(=O)nc1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0000082
@@ -2699,7 +2715,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.41
-InChiKey: InChI=1S/C9H15N2O15P3/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(24-8)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,21,22)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+InChiKey: PGAVKCOVUIYSFO-XVFCMESISA-N
 Formula: C9H15N2O15P3 
 Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0000285
@@ -2728,7 +2744,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.10
-InChiKey: InChI=1S/C16H23N6O10P/c17-7(16(26)27)2-1-3-9(23)32-33(28,29)30-4-8-11(24)12(25)15(31-8)22-6-21-10-13(18)19-5-20-14(10)22/h5-8,11-12,15,24-25H,1-4,17H2,(H,26,27)(H,28,29)(H2,18,19,20)/t7-,8+,11+,12+,15+/m0/s1
+InChiKey: POJWEBKSMOTPNS-SBZSCLMQSA-N
 Formula: C16H23N6O10P  
 Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OC(=O)CCC[C@@H](C(=O)O)N)O)O)N
 Ontology: HMDB0006941
@@ -2769,7 +2785,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.84
-InChiKey: InChI=1S/C10H16N5O12P3/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(25-7)2-24-29(20,21)27-30(22,23)26-28(17,18)19/h3-7,16H,1-2H2,(H,20,21)(H,22,23)(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+InChiKey: SUYVUBYJARFZHO-RRKCRQDMSA-N
 Formula: C10H16N5O12P3  
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
 Ontology: HMDB0001532
@@ -2788,7 +2804,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 10.41
-InChiKey: InChI=1S/C9H16N5O13P3/c10-9-13-7-5(8(17)14-9)12-3(1-11-7)6(16)4(15)2-25-29(21,22)27-30(23,24)26-28(18,19)20/h4,6,15-16H,1-2H2,(H,21,22)(H,23,24)(H2,18,19,20)(H4,10,11,13,14,17)/t4-,6+/m1/s1
+InChiKey: DGGUVLXVLHAAGT-XINAWCOVSA-N
 Formula: C9H16N5O13P3  
 Smiles: C1C(=NC2=C(N1)N=C(NC2=O)N)[C@@H]([C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0000980
@@ -2811,7 +2827,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.13
-InChiKey: InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+InChiKey: ZKHQWZAMYRWXGA-KQYNXXCUSA-N
 Formula: C10H16N5O13P3  
 Smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
 Ontology: HMDB0000538
@@ -2838,7 +2854,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.66
-InChiKey: InChI=1S/C10H15N4O14P3/c15-6-4(1-25-30(21,22)28-31(23,24)27-29(18,19)20)26-10(7(6)16)14-3-13-5-8(14)11-2-12-9(5)17/h2-4,6-7,10,15-16H,1H2,(H,21,22)(H,23,24)(H,11,12,17)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+InChiKey: HAEJPQIATWHALX-KQYNXXCUSA-N
 Formula: C10H15N4O14P3  
 Smiles: C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0000189
@@ -2898,7 +2914,7 @@ Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 17.03
-InChiKey: InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1/i14T
+InChiKey: PKJQEQVCYGYYMM-QBNUFUENSA-L
 Formula: C15H24N2O17P2
 Smiles: [3H][C@]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O
 Ontology: HMDB0000286
@@ -3024,7 +3040,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.11
-InchiI: UFIVEPVSAGBUSI-REOHCLBHSA-N
+InChiKey: UFIVEPVSAGBUSI-REOHCLBHSA-N
 Formula: C5H6N2O4
 Smiles: OC(=O)[C@@H]1CC(=O)NC(=O)N1
 Ontology: HMDB0003349
@@ -3049,7 +3065,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.31
-InchiI: PXQPEWDEAKTCGB-UHFFFAOYSA-N
+InChiKey: PXQPEWDEAKTCGB-UHFFFAOYSA-N
 Formula: C5H4N2O4
 Smiles: OC(=O)C1=CC(=O)NC(=O)N1
 Ontology: HMDB0000226
@@ -3072,7 +3088,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.00
-InchiI: MNQZXJOMYWMBOU-UHFFFAOYSA-N
+InChiKey: MNQZXJOMYWMBOU-UHFFFAOYSA-N
 Formula: C3H6O3
 Smiles: C(C(C=O)O)O
 Ontology: HMDB0001051
@@ -3094,7 +3110,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 20.16
-InchiI: QQVDJLLNRSOCEL-UHFFFAOYSA-N
+InChiKey: QQVDJLLNRSOCEL-UHFFFAOYSA-N
 Formula: C2H8NO3P
 Smiles: C(CP(=O)(O)O)N
 Ontology: HMDB0011747
@@ -3114,7 +3130,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 16.20
-InchiI: FZLJPEPAYPUMMR-RTRLPJTCSA-N
+InChiKey: FZLJPEPAYPUMMR-RTRLPJTCSA-N
 Formula: C8H16NO9P
 Smiles: CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](OC1OP(=O)(O)O)CO)O)O
 Ontology: HMDB0001367
@@ -3136,7 +3152,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 16.41
-InchiI: BRGMHAYQAZFZDJ-RTRLPJTCSA-N
+InChiKey: BRGMHAYQAZFZDJ-RTRLPJTCSA-N
 Formula: C8H16NO9P
 Smiles: CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](OC1O)COP(=O)(O)O)O)O
 Ontology: HMDB0001062
@@ -3158,7 +3174,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 2.55
-InchiI: FBPFZTCFMRRESA-GUCUJZIJSA-N
+InChiKey: FBPFZTCFMRRESA-GUCUJZIJSA-N
 Formula: C6H14O6
 Smiles: C([C@H]([C@@H]([C@@H]([C@H](CO)O)O)O)O)O
 Ontology: HMDB0000107
@@ -3187,7 +3203,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 6.00
-InchiI: InChI=1S/C4H4O3/c5-3-1-2-4(6)7-3/h1-2H2
+InChiKey: RINCXYDBBGOEEQ-UHFFFAOYSA-N
 Formula: C4H4O3
 Smiles: C1CC(=O)OC1=O
 Ontology: HMDB0032523
@@ -3204,7 +3220,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 12.68
-InchiI: DSLZVSRJTYRBFB-DUHBMQHGSA-N
+InChiKey: DSLZVSRJTYRBFB-DUHBMQHGSA-N
 Formula: C6H10O8
 Smiles: [C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Ontology: HMDB0000639
@@ -3228,7 +3244,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.56
-InchiI: HDYANYHVCAPMJV-LXQIFKJMSA-N
+InChiKey: HDYANYHVCAPMJV-LXQIFKJMSA-N
 Formula: C15H22N2O18P2
 Smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)C(=O)O)O)O)O)O)O
 Ontology: HMDB0000935
@@ -3253,7 +3269,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.90
-InchiI: HDYANYHVCAPMJV-GXNRKQDOSA-N
+InChiKey: HDYANYHVCAPMJV-GXNRKQDOSA-N
 Formula: C15H22N2O18P2
 Smiles: O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@@H]([C@H](O)[C@H](O)[C@H]2O)C(O)=O)O[C@H]([C@@H]1O)N1C=CC(=O)NC1=O
 Ontology: HMDB0012302
@@ -3278,7 +3294,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 19.56
-InchiI: CIKGWCTVFSRMJU-KVQBGUIXSA-N
+InChiKey: CIKGWCTVFSRMJU-KVQBGUIXSA-N
 Formula: C10H15N5O10P2
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)O)O
 Ontology: HMDB0000960
@@ -3299,7 +3315,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 1.59
-InchiI: RBNPOMFGQQGHHO-UHFFFAOYSA-N
+InChiKey: RBNPOMFGQQGHHO-UHFFFAOYSA-N
 Formula: C3H6O4
 Smiles: C(C(C(=O)O)O)O
 Ontology: HMDB0000139
@@ -3319,7 +3335,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 13.34
-InchiI: JSRLJPSBLDHEIO-SHYZEUOFSA-N
+InChiKey: JSRLJPSBLDHEIO-SHYZEUOFSA-N
 Formula: C9H13N2O8P
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)O)O
 Ontology: HMDB0001409
@@ -3337,7 +3353,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.08
-InchiI: JPXZQMKKFWMMGK-KQYNXXCUSA-N
+InChiKey: JPXZQMKKFWMMGK-KQYNXXCUSA-N
 Formula: C10H14N4O11P2
 Smiles: C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O
 Ontology: HMDB0003335
@@ -3355,14 +3371,14 @@ Num peaks: 11
 427.0062  	53.2
 
 
-Name: Deoxycytidine diphosphate
+Name: 2'-Deoxycytidine diphosphate
 PrecursorMz: 386.0160
 Precursor_type: [M-H]-
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 21.18
-InchiI: FTDHDKPUHBLBTL-SHYZEUOFSA-N
+InChiKey: FTDHDKPUHBLBTL-SHYZEUOFSA-N
 Formula: C9H15N3O10P2
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)O)O
 Ontology: HMDB0001245
@@ -3387,7 +3403,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 23.00
-InchiI: XKMLYUALXHKNFT-UUOKFMHZSA-N
+InChiKey: XKMLYUALXHKNFT-UUOKFMHZSA-N
 Formula: C10H16N5O14P3
 Smiles: c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O)[nH]c(nc2=O)N
 Ontology: HMDB0001273
@@ -3413,7 +3429,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 22.40
-InchiI: HAAZLUGHYHWQIW-KVQBGUIXSA-N
+InChiKey: HAAZLUGHYHWQIW-KVQBGUIXSA-N
 Formula: C10H16N5O13P3
 Smiles: O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n1cnc2c1NC(=N/C2=O)\N)C[C@@H]3O
 Ontology: HMDB0001440
@@ -3432,7 +3448,7 @@ Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 18.62
-InchiI: QHWZTVCCBMIIKE-SHYZEUOFSA-N
+InChiKey: QHWZTVCCBMIIKE-SHYZEUOFSA-N
 Formula: C9H14N2O11P2
 Smiles: C1[C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)O)O
 Ontology: HMDB0001000
