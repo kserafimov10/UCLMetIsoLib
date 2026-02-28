@@ -1666,14 +1666,14 @@ Num peaks: 5
 229.0112 	1.5
 
 
-Name: Ribose-1-phosphate
+Name: Ribulose-1-phosphate
 PrecursorMz: 229.0119
 Precursor_type: [M-H]-
 Collision_energy:  30.0,50.0,70.0
 Ionization: ESI
 IonMode: negative
 RetentionTime: 15.62
-InChiKey: YXJDFQJKERBOBM-TXICZTDVSA-N
+InChiKey: NBOCCPQHBPGYCX-NQXXGFSBSA-N
 Formula: C5H11O8P 
 Smiles: C([C@H]([C@H](C(=O)COP(=O)(O)O)O)O)O
 Ontology: 
@@ -3456,3 +3456,4 @@ Num peaks: 3
 78.9590  	100.0
 96.9696  	10.5
 307.0336  	100.0
+
