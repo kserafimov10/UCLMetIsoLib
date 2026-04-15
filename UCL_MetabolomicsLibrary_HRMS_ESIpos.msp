@@ -4,7 +4,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 12.52
+RetentionTime: 11.52
 InchiIKey: DHMQDGOQFOQNFH-UHFFFAOYSA-N
 Formula: C2H5NO2
 Smiles: C(C(=O)O)N
@@ -884,7 +884,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 14.22
+RetentionTime: 16.22
 InchiIKey: QYPPJABKJHAVHS-UHFFFAOYSA-N
 Formula: C5H14N4
 Smiles: C(CCN=C(N)N)CN
@@ -1200,7 +1200,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.51
+RetentionTime: 16.91
 InchiIKey: AHLPHDHHMVZTML-BYPYZUCNSA-N
 Formula: C5H12N2O2
 Smiles: C(C[C@@H](C(=O)O)N)CN
@@ -1637,7 +1637,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.28
+RetentionTime: 16.88
 InchiIKey: KDXKERNSBIXSRK-UHFFFAOYSA-N
 Formula: C6H14N2O2
 Smiles: C(CCN)C[C@@H](C(=O)O)N
@@ -1869,7 +1869,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 15.87
+RetentionTime: 14.87
 InchiIKey: HNDVDQJCIGZPNO-YFKPBYRVSA-N
 Formula: C6H9N3O2
 Smiles: c1c(nc[nH]1)C[C@@H](C(=O)O)N
@@ -2057,7 +2057,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 19.69
+RetentionTime: 18.39
 InchiIKey: YSMODUONRAFBET-UHNVWZDZSA-N
 Formula: C6H14N2O3
 Smiles: NC[C@H](O)CC[C@H](N)C(O)=O
@@ -2078,7 +2078,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.04
+RetentionTime: 16.54
 InchiIKey: HBDWQSHEVMSFGY-HRFVKAFMSA-N
 Formula: C5H9NO5
 Smiles: C([C@@H](C(=O)O)N)[C@H](C(=O)O)O
@@ -2275,7 +2275,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 13.20
+RetentionTime: 12.30
 InchiIKey: BRMWTNUJHUMWMS-LURJTMIESA-N
 Formula: C7H11N3O2
 Smiles: CN1C=C(N=C1)C[C@@H](C(=O)O)N
@@ -2298,7 +2298,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.48
+RetentionTime: 13.00
 InchiIKey: JDHILDINMRGULE-LURJTMIESA-N
 Formula: C7H11N3O2
 Smiles: CN1C=NC=C1C[C@@H](C(=O)O)N
@@ -2462,7 +2462,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.77
+RetentionTime: 16.07
 InchiIKey: ODKSFYDXXFIFQN-BYPYZUCNSA-N 
 Formula: C6H14N4O2
 Smiles: C(C[C@@H](C(=O)O)N)CNC(=N)N
@@ -2652,7 +2652,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 19.33
+RetentionTime: 17.03
 InchiIKey: NUCLJNSWZCHRKL-UHFFFAOYSA-N
 Formula: C4H8N4O4
 Smiles: NC(=O)NC(NC(N)=O)C(O)=O
@@ -2676,65 +2676,6 @@ InchiIKey: MSWZFWKMSRAUBD-IVMDWMLBSA-N
 Formula: C6H13NO5
 Smiles: C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O
 Ontology: HMDB0001514
-Num peaks: 45
-41.0386 	 2.8
-42.0338 	 4.3
-43.0178 	 3.4
-44.0494 	 17.8
-45.0335 	 4.1
-48.5462 	 1.5
-49.5392 	 1.5
-53.0385 	 3.7
-53.0913 	 1.4
-55.0179 	 4.3
-55.0542 	 2.9
-56.0494 	 10.5
-57.0335 	 6.1
-58.0287 	 4.9
-60.0443 	 53.4
-61.0283 	 14.7
-61.5239 	 1.4
-68.0493 	 7.1
-69.0335 	 13.5
-70.0288 	 2.0
-70.0650 	 23.5
-72.0391 	 2.0
-72.0443 	 52.0
-73.0284 	 4.3
-80.0494 	 5.6
-81.0335 	 5.2
-84.0443 	 100.0
-85.0282 	 25.3
-85.1330 	 1.5
-85.7357 	 1.2
-86.0595 	 2.3
-96.0444 	 13.1
-97.0281 	 8.5
-98.0599 	 29.1
-102.0548 	 1.9
-108.0446 	 3.5
-109.0283 	 2.0
-114.0550 	 11.2
-126.0549  	 16.7
-127.0387 	 3.2
-144.0655 	 14.6
-162.0760 	 37.0
-162.0931 	 2.3
-162.5103 	 1.4
-180.0866 	 5.3
-
-
-Name: Mannosamine
-PrecursorMz: 180.0866
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 12.85
-InchiIKey: MSWZFWKMSRAUBD-CBPJZXOFSA-N
-Formula: C6H13NO5
-Smiles: C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)N)O)O)O
-Ontology: 
 Num peaks: 45
 41.0386 	 2.8
 42.0338 	 4.3
@@ -2848,7 +2789,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 12.31
+RetentionTime: 12.81
 InchiIKey: IXZISFNWUWKBOM-ARQDHWQXSA-N
 Formula: C6H13NO5
 Smiles: NC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O
@@ -2950,7 +2891,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 14.98
+RetentionTime: 14.08
 InchiIKey: VBOQYPQEPHKASR-VKHMYHEASA-N
 Formula: C4H9NO5S
 Smiles: N[C@@H](CCS(O)(=O)=O)C(O)=O
@@ -3079,7 +3020,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 20.00
+RetentionTime: 14.60
 InchiIKey: YHHSONZFOIEMCP-UHFFFAOYSA-N
 Formula: C5H14NO4P
 Smiles: C[N+](C)(C)CCOP(=O)(O)O
@@ -3244,7 +3185,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.28
+RetentionTime: 15.60
 InchiIKey: QUOGESRFPZDMMT-YFKPBYRVSA-N
 Formula: C7H16N4O2
 Smiles: C(CCN=C(N)N)C[C@@H](C(=O)O)N
@@ -3268,7 +3209,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.46
+RetentionTime: 14.80
 InchiIKey: NTNWOCRCBQPEKQ-YFKPBYRVSA-N
 Formula: C7H16N4O2
 Smiles: CN=C(N)NCCC[C@@H](C(=O)O)N
@@ -3292,7 +3233,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 9.69
+RetentionTime: 9.09
 InchiIKey: ZDLDXNCMJBOYJV-YFKPBYRVSA-N
 Formula: C7H16N4O2
 Smiles: COC(=O)[C@H](CCCN=C(N)N)N
@@ -3378,7 +3319,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.23
+RetentionTime: 16.83
 InchiIKey: USRGIUJOYOXOQJ-GBXIJSLDSA-N
 Formula: C4H10NO6P
 Smiles: C[C@H]([C@@H](C(=O)O)N)OP(=O)(O)O
@@ -3396,7 +3337,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.05
+RetentionTime: 15.65
 InchI: MXNRLFUSFKVQSK-QMMMGPOBSA-O
 Formula: C9H21N2O2
 Smiles: C[N+](C)(C)CCCC[C@@H](C(=O)O)N
@@ -3421,7 +3362,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 15.41
+RetentionTime: 14.01
 InchI: UDYDDOATBNVEES-UUOKFMHZSA-N
 Formula: C9H15N4O8P
 Smiles: C1=NC(=C(N1C2C(C(C(O2)COP(=O)(O)O)O)O)C(=O)N)N
@@ -3549,7 +3490,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 12.57
+RetentionTime: 12.07
 InchiIKey: GPPYTCRVKHULJH-QMMMGPOBSA-N
 Formula: C9H15N3O2
 Smiles: C[N+](C)(C)[C@@H](CC1=CN=CN1)C(=O)[O-]
@@ -3595,7 +3536,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 15.68
+RetentionTime: 14.68
 InchiIKey: YDGMGEXADBMOMJ-LURJTMIESA-N
 Formula: C8H18N4O2
 Smiles: CN(C)C(=NCCC[C@@H](C(=O)O)N)N
@@ -3627,7 +3568,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 15.31
+RetentionTime: 14.01
 InchiIKey: HVPFXCBJHIIJGS-LURJTMIESA-N
 Formula: C8H18N4O2
 Smiles: CNC(=NC)NCCC[C@@H](C(=O)O)N
@@ -3652,7 +3593,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 8.57
+RetentionTime: 8.17
 InchiIKey: RDHQFKQIGNGIED-MRVPVSSYSA-N
 Formula: C9H18NO4
 Smiles: CC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C
@@ -4275,7 +4216,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.00
+RetentionTime: 16.40
 InchiIKey: MYYIAHXIVFADCU-QMMMGPOBSA-N
 Formula: C10H16N4O3
 Smiles: Cn1cncc1C[C@@H](C(=O)O)/N=C(/CCN)\O
@@ -4459,7 +4400,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 19.44
+RetentionTime: 17.44
 InchiIKey: GUNURVWAJRRUAV-UHFFFAOYSA-N
 Formula: C12H28N4O
 Smiles: CC(=O)NCCCNCCCCNCCCN
@@ -4640,7 +4581,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 10.35
+RetentionTime: 9.35
 InchiIKey: BMQYVXCPAOLZOK-XINAWCOVSA-N
 Formula: C9H11N5O4
 Smiles: C1=C(N=C2C(=O)NC(=NC2=N1)N)[C@@H]([C@@H](CO)O)O
@@ -4686,7 +4627,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 12.57
+RetentionTime: 12.27
 InchiIKey: YQIFAMYNGGOTFB-XINAWCOVSA-N
 Formula: C9H13N5O4
 Smiles: C1C(=NC2=C(N1)N=C(NC2=O)N)[C@@H]([C@@H](CO)O)O
@@ -4732,7 +4673,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 14.93
+RetentionTime: 14.53
 InchiIKey: ZFOMKMMPBOQKMC-UHFFFAOYSA-N
 Formula: C12H21N3O3
 Smiles: C[C@@H]1CC=N[C@H]1C(=O)NCCCC[C@@H](C(=O)O)N
@@ -4759,7 +4700,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 13.41
+RetentionTime: 12.91
 InchiIKey: SUHOQUVVVLNYQR-UHFFFAOYSA-N
 Formula: C8H20NO6P
 Smiles: C[N+](C)(C)CCOP(=O)([O-])OC[C@@H](CO)O
@@ -4872,7 +4813,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.20
+RetentionTime: 17.40
 InchiIKey: IQFWYNFDWRYSRA-OEQWSMLSSA-N
 Formula: C9H17NO6S
 Smiles: C(CSC[C@@H]1[C@H]([C@H]([C@@H](O1)O)O)O)[C@@H](C(=O)O)N
@@ -5287,7 +5228,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.68
+RetentionTime: 15.68
 InChiKey: GUGWNSHJDUEHNJ-UHFFFAOYSA-N
 Formula: C12H18N4O4PS
 Smiles: Cc1c(sc[n+]1Cc2cnc(nc2N)C)CCOP(=O)(O)O
@@ -5313,7 +5254,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 19.44
+RetentionTime: 18.84
 InchiIKey: ZUNBITIXDCPNSD-LSRJEVITSA-N
 Formula: C14H23N6O3S
 Smiles: C[S+](CCCN)C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O
@@ -5436,7 +5377,7 @@ Precursor_type: [M]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 19.42
+RetentionTime: 17.42
 InchiIKey: MEFKEPWMEQBLKI-YDBXVIPQSA-O
 Formula: C15H23N6O5S
 Smiles: C[S+](CC[C@@H](C(=O)O)N)C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O
@@ -5733,7 +5674,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 1.77
+RetentionTime: 22.97
 InchiIKey: JMWFFJATYDQZCI-HOTGVXAUSA-N
 Formula: C20H41N7O5S
 Smiles: C(CCNCCCNC(=O)CNC(=O)[C@H](CS)NC(=O)CC[C@@H](C(=O)O)N)CNCCCN
@@ -5768,7 +5709,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 22.52
+RetentionTime: 17.46
 InchiIKey: YPZRWBKMTBYPTK-BJDJZHNGSA-N
 Formula: C20H32N6O12S2
 Smiles: C(CC(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
@@ -6303,7 +6244,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 20.33
+RetentionTime: 20.03
 InchiIKey: QJMCHPGWFZZRID-UHFFFAOYSA-N
 Formula: C10H19N3O5
 Smiles: C(CCN)CC(C(=O)O)NC(=O)C(CC(=O)N)N
@@ -7453,7 +7394,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.35
+RetentionTime: 15.35
 InchiIKey: JXNRXNCCROJZFB-RYUDHWBXSA-N
 Formula: C15H23N5O4
 Smiles: N[C@@H](CC1=CC=C(O)C=C1)C(=O)N[C@@H](CCCNC(N)=N)C(O)=O
@@ -7534,7 +7475,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.03
+RetentionTime: 16.53
 InchiIKey: AIXUQKMMBQJZCU-IUCAKERBSA-N
 Formula: C11H21N3O3
 Smiles: NCCCC[C@H](N)C(=O)N1CCC[C@H]1C(O)=O
@@ -7564,7 +7505,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.38
+RetentionTime: 16.08
 InchiIKey: YQAIUOWPSUOINN-IUCAKERBSA-N
 Formula: C11H23N3O3
 Smiles: CC(C)[C@H](NC(=O)[C@@H](N)CCCCN)C(O)=O
@@ -8651,7 +8592,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.90
+RetentionTime: 19.50
 InchiIKey: LFTYTUAZOPRMMI-CFRASDGPSA-N
 Formula: C17H27N3O17P2
 Smiles: CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
@@ -8681,7 +8622,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.24
+RetentionTime: 20.24
 InchiIKey: LFTYTUAZOPRMMI-UHFFFAOYSA-N
 Formula: C17H27N3O17P2
 Smiles: CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
@@ -8817,7 +8758,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.82
+RetentionTime: 16.02
 InchiIKey: PQNASZJZHFPQLE-LURJTMIESA-N
 Formula: C7H16N2O2
 Smiles: CNCCCC[C@H](N)C(O)=O
@@ -8837,7 +8778,7 @@ Precursor_type: [M+H]+
 Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 20.80
+RetentionTime: 21.80
 InchiIKey: ZHRLECIZINSPKL-AKGZTFGVSA-N
 Formula: C8H15N3O5S2
 Smiles: N[C@@H](CSSCC(N)C(=O)NCC(O)=O)C(O)=O
@@ -8943,10 +8884,10 @@ Num peaks: 8
 Name: FAD
 PrecursorMz: 786.1644
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 16.50
+RetentionTime: 14.50
 InchiIKey: VWWQXMAJTJZDQX-UYBVJOGSSA-N
 Formula: C27H33N9O15P2
 Smiles: c12cc(C)c(C)cc1N=C3C(=O)NC(=O)N=C3N2C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@@H](O)[C@@H](O)[C@@H](O4)n5cnc6c5ncnc6N
@@ -8972,7 +8913,7 @@ Num peaks: 15
 Name: Acetyl-CoA
 PrecursorMz: 810.1330
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 17.18
@@ -9001,7 +8942,7 @@ Num peaks: 15
 Name: Malonyl-CoA
 PrecursorMz: 854.1229
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 20.34
@@ -9016,10 +8957,10 @@ Num peaks: 1
 Name: Succinyl-CoA
 PrecursorMz: 868.1385
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 17.38
+RetentionTime: 22.38
 InchiIKey: VNOYUJKHFWYWIR-ITIYDSSPSA-N
 Formula: C25H40N7O19P3S
 Smiles: O=C(O)CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
@@ -9031,7 +8972,7 @@ Num peaks: 1
 Name: Propionyl-CoA
 PrecursorMz: 824.1487
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 16.41
@@ -9046,7 +8987,7 @@ Num peaks: 1
 Name: Pimeloyl-CoA
 PrecursorMz: 910.1855
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 13.47
@@ -9061,10 +9002,10 @@ Num peaks: 1
 Name: Flavin mononucleotide
 PrecursorMz: 457.1119
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 14.17
+RetentionTime: 14.07
 InchiIKey: FVTCRASFADXXNN-SCRDCRAPSA-N
 Formula: C17H21N4O9P
 Smiles: Cc1cc2c(cc1C)n(c-3nc(=O)[nH]c(=O)c3n2)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
@@ -9090,7 +9031,7 @@ Num peaks: 15
 Name: Cysteine persulfide
 PrecursorMz: 279.0468
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 7.00
@@ -9120,7 +9061,7 @@ Num peaks: 16
 Name: N-Acetylglutamate
 PrecursorMz: 190.0710
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 10.73
@@ -9142,7 +9083,7 @@ Num peaks: 8
 Name: Purine
 PrecursorMz: 121.0509
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 2.34
@@ -9158,7 +9099,7 @@ Num peaks: 2
 Name: Tetrahydrofolic Acid
 PrecursorMz: 446.1783
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 13.60
@@ -9177,7 +9118,7 @@ Num peaks: 5
 Name: N-Glycolylneuraminic Acid
 PrecursorMz: 326.1082
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 15.45
@@ -9213,10 +9154,10 @@ Num peaks: 22
 Name: Nicotinamide mononucleotide
 PrecursorMz: 335.0639
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
-RetentionTime: 18.10
+RetentionTime: 15.50
 InchiIKey: DAYLJWODMCOQEW-TURQNECASA-N
 Formula: C11H15N2O8P
 Smiles: NC(=O)C1=CC=C[N+](=C1)[C@@H]1O[C@H](COP(O)([O-])=O)[C@@H](O)[C@H]1O
@@ -9239,7 +9180,7 @@ Num peaks: 12
 Name: CDP-choline
 PrecursorMz: 489.1146
 Precursor_type: [M]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 19.37
@@ -9267,7 +9208,7 @@ Num peaks: 14
 Name: Methylguanidine
 PrecursorMz: 74.0713
 Precursor_type: [M+H]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 5.03
@@ -9283,7 +9224,7 @@ Num peaks: 2
 Name: NADP
 PrecursorMz: 744.0827
 Precursor_type: [M]+
-Collision_energy:  30.0,50.0,70.0
+Collision_energy: 30.0,50.0,70.0
 Ionization: ESI
 IonMode: positive
 RetentionTime: 22.15
