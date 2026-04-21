@@ -1,1 +1,49 @@
-TBA
+==========FINAL MS METHOD PARAMETERS========
+
+ESI+
+Spray Voltage: Static
+Positive Ion (V): 3500V
+Gas Mode: Static
+Sheath Gas: 35
+Aux Gas: 7
+Sweep Gas: 0
+Ion Transfer Tube Temperature: 320C
+Vaporizer Temperature: 275C
+Full Scan Orbitrap Resolution: 30000
+Full Scan Range: 70-1000 m/z
+RF Lens: 70%
+AGC Target Full Scan: 1e7
+Maximum Injection Time Full Scan: 750 ms
+Microscans MS1: 1
+Data Type: Profile
+Collision Energy Type: Normalized
+HCD Collision Energies: 30/50/70
+MS/MS Orbitrap Resolution: 11250
+AGC Target MS/MS: 5e4
+Maximum Injection Time MS/MS: 200 ms
+Microscans MS/MS: 1
+DDA MS-SCANS: 5
+
+ESI-
+Spray Voltage: Static
+Positive Ion (V): 3000V
+Gas Mode: Static
+Sheath Gas: 50
+Aux Gas: 10
+Sweep Gas: 1
+Ion Transfer Tube Temperature: 325C
+Vaporizer Temperature: 350C
+Full Scan Orbitrap Resolution: 30000
+Full Scan Range: 70-900 m/z
+RF Lens: 70%
+AGC Target Full Scan: 1e7
+Maximum Injection Time Full Scan: 1000 ms
+Microscans MS1: 1
+Data Type: Profile
+Collision Energy Type: Normalized
+HCD Collision Energies: 30/50/70
+MS/MS Orbitrap Resolution: 11250
+AGC Target MS/MS: 5e4
+Maximum Injection Time MS/MS: 250 ms
+Microscans MS/MS: 1
+DDA MS-SCANS: 5
