@@ -6624,39 +6624,6 @@ Num peaks: 14
 277.1042  	2.0
 
 
-Name: Endomorphin 2
-PrecursorMz: 572.2867
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 4.57
-InchiIKey: XIJHWXXXIMEHKW-LJWNLINESA-N
-Formula: C32H37N5O5
-Smiles: C1C[C@H](N(C1)C(=O)[C@H](CC2=CC=C(C=C2)O)N)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N
-Ontology: HMDB0005774
-Num peaks: 19
-70.0651  	100.0
-91.0543  	4.0
-119.0490  	3.0
-120.0808  	43.0
-136.0756  	30.0
-165.1030  	2.0
-202.1081  	1.0
-217.1337  	14.0
-245.1283  	12.0
-261.1242  	10.0
-267.1505  	4.0
-295.1439  	1.5
-312.1707  	1.5
-374.4987  	1.0
-392.1975  	2.5
-408.1898  	3.0
-462.0302  	1.0
-527.2638  	1.5
-555.2636  	2.0
-
-
 Name: Tyrosyl-tyrosyl-tyrosine
 PrecursorMz: 508.2078
 Precursor_type: [M+H]+
@@ -7334,33 +7301,6 @@ Num peaks: 10
 152.6071  	1.5
 202.0457  	2.0
 219.1742  	4.0
-
-
-Name: Kyotorphin
-PrecursorMz: 338.1823
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 15.35
-InchiIKey: JXNRXNCCROJZFB-RYUDHWBXSA-N
-Formula: C15H23N5O4
-Smiles: N[C@@H](CC1=CC=C(O)C=C1)C(=O)N[C@@H](CCCNC(N)=N)C(O)=O
-Ontology: HMDB0005768
-Num peaks: 13
-60.0556  	25.0
-70.0650  	60.0
-91.0544  	10.0
-116.0707  	20.0
-136.0757  	100.0
-147.4256  	2.5
-158.0926  	10.0
-175.1188  	45.0
-206.0921  	10.0
-228.9616  	10.0
-283.5666  	2.5
-321.1560  	13.0
-338.1824  	70.0
 
 
 Name: Leucyl-Proline
@@ -8433,27 +8373,6 @@ Num peaks: 7
 248.9396	1.6
 
 
-Name: Methionine sulfoximine
-PrecursorMz: 181.0641
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 13.45
-InchiIKey: SXTAYKAGBXMACB-DPVSGNNYSA-N
-Formula: C5H12N2O3S
-Smiles: CS(=N)(=O)CC[C@@H](C(=O)O)N
-Ontology: HMDB0029430
-Num peaks: 7
-56.0495  	85.0
-74.0236  	30.0
-80.0164  	20.0
-82.9892  	20.0
-102.0548  	100.0
-123.0209  	15.0
-181.0640  	5.0
-
-
 Name: Guanidinosuccinic acid
 PrecursorMz: 176.0666
 Precursor_type: [M+H]+
@@ -9500,73 +9419,3 @@ Smiles: C([C@H](COP(=O)(O)OC[C@@H](C(=O)O)N)O)O
 Ontology: 
 Num peaks: 1
 260.0530 	100.0
-
-
-Name: N-Carbamoyl-Sarcosine
-PrecursorMz: 133.0608
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 9.81
-InchiIKey: SREKYKXYSQMOIB-UHFFFAOYSA-N
-Formula: C4H8N2O3
-Smiles: CN(CC(O)=O)C(O)=N
-Ontology: HMDB0012265
-Num peaks: 
-
-
-Name: N-Acetylthreonine
-PrecursorMz: 162.0761
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 8.09
-InchiIKey: PEDXUVCGOLSNLQ-WUJLRWPWSA-N
-Formula: C6H11NO4
-Smiles: C[C@@H](O)[C@H](NC(C)=O)C(O)=O
-Ontology: HMDB0062557
-Num peaks: 
-
-
-Name: S-Lactoyl-Glutathione
-PrecursorMz: 268.1027
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 15.41
-InchiIKey: VDYDCVUWILIYQF-CSMHCCOUSA-N
-Formula: C13H21N3O8S
-Smiles: C[C@@H](O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O
-Ontology: HMDB0001066
-Num peaks:
-
-
-Name: S-Nitrosoglutathione
-PrecursorMz: 337.0812
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 13.99
-InchiIKey: HYHSBSXUHZOYLX-WDSKDSINSA-N
-Formula: C10H16N4O7S
-Smiles: C(CC(=O)N[C@@H](CSN=O)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
-Ontology: HMDB0004645
-Num peaks: 
-
-
-Name: Ureidosuccinic acid
-PrecursorMz: 177.0506
-Precursor_type: [M+H]+
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: positive
-RetentionTime: 11.85
-InchiIKey: HLKXYZVTANABHZ-UHFFFAOYSA-N
-Formula: C5H8N2O5
-Smiles: NC(=O)NC(CC(=O)O)C(=O)O
-Ontology: HMDB0000828
-Num peaks: 
