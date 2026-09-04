@@ -3202,23 +3202,6 @@ Num peaks: 15
 181.0720  	75.0
 
 
-Name: Succinic anhydride
-PrecursorMz: 99.0088
-Precursor_type: [M-H]-
-Collision_energy: 30.0,50.0,70.0
-Ionization: ESI
-IonMode: negative
-RetentionTime: 4.24
-InChiKey: RINCXYDBBGOEEQ-UHFFFAOYSA-N
-Formula: C4H4O3
-Smiles: C1CC(=O)OC1=O
-Ontology: HMDB0032523
-Num peaks: 3
-41.9985  	60.0
-55.0189  	5.0
-99.0198  	100.0
-
-
 Name: Galactaric acid
 PrecursorMz: 209.0303
 Precursor_type: [M-H]-
